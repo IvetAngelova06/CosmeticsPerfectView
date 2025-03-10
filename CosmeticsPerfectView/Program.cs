@@ -1,4 +1,5 @@
 using CosmeticsPerfectView.Data;
+using CosmeticsPerfectView.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,9 +18,14 @@ namespace CosmeticsPerfectView
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
-                .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+                .AddRoles<IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                   .AddDefaultTokenProviders();
+
+            builder.Services.AddControllers(x=>x.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes=true);
 
             var app = builder.Build();
+            app.PrepareDataBase().Wait();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

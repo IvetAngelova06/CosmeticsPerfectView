@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-CosmeticsPerfectView-d1d22efc-72e3-4ef8-9396-f0140c96ba8e")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-CosmeticsPerfectView-e5eb5ad5-c465-4717-bc34-99d822f21559")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CosmeticsPerfectView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -4,15 +4,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-CosmeticsPerfectView-d1d22efc-72e3-4ef8-9396-f0140c96ba8e</UserSecretsId>
+    <UserSecretsId>aspnet-CosmeticsPerfectView-e5eb5ad5-c465-4717-bc34-99d822f21559</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.12" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.12" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.12" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.12" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.13" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
 </Project>
