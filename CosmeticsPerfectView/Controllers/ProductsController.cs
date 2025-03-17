@@ -58,16 +58,17 @@ namespace CosmeticsPerfectView.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description,DateRegister")] Product product)
+        public async Task<IActionResult> Create([Bind("Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description")] Product product)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(product);
+                product.DateRegister = DateTime.Now;
+                _context.Products.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoriesId);
-            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Id", product.ProductTypeId);
+            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoriesId);
+            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Name", product.ProductTypeId);
             return View(product);
         }
 
@@ -84,8 +85,8 @@ namespace CosmeticsPerfectView.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoriesId);
-            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Id", product.ProductTypeId);
+            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoriesId);
+            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Name", product.ProductTypeId);
             return View(product);
         }
 
@@ -94,7 +95,7 @@ namespace CosmeticsPerfectView.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description,DateRegister")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description,DateRegister")] Product product)
         {
             if (id != product.Id)
             {
@@ -105,7 +106,8 @@ namespace CosmeticsPerfectView.Controllers
             {
                 try
                 {
-                    _context.Update(product);
+   
+                    _context.Products.Update(product);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -121,8 +123,8 @@ namespace CosmeticsPerfectView.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoriesId);
-            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Id", product.ProductTypeId);
+            ViewData["CategoriesId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoriesId);
+            ViewData["ProductTypeId"] = new SelectList(_context.ProductTypes, "Id", "Name", product.ProductTypeId);
             return View(product);
         }
 

@@ -9,5 +9,6 @@
         public Product Products { get; set; }
         public int OrderQuantity { get; set; }
         public string Description { get; set; }
+        public DateTime OrderOn { get;} = DateTime.Now;
     }
 }

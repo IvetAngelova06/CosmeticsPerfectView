@@ -295,3 +295,4 @@ C:\Users\pc\Documents\ДЗИ\ДЗИ Практика\CosmeticsPerfectView\Cosmet
 C:\Users\pc\Documents\ДЗИ\ДЗИ Практика\CosmeticsPerfectView\CosmeticsPerfectView\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\pc\Documents\ДЗИ\ДЗИ Практика\CosmeticsPerfectView\CosmeticsPerfectView\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\pc\Documents\ДЗИ\ДЗИ Практика\CosmeticsPerfectView\CosmeticsPerfectView\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pc\Documents\ДЗИ\ДЗИ Практика\CosmeticsPerfectView\CosmeticsPerfectView\obj\Debug\net8.0\CosmeticsPerfectView.sourcelink.json

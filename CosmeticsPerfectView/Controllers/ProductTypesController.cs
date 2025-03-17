@@ -57,7 +57,7 @@ namespace CosmeticsPerfectView.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(productType);
+                _context.ProductTypes.Add(productType);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

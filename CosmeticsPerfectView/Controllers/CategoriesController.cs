@@ -57,7 +57,7 @@ namespace CosmeticsPerfectView.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(category);
+                _context.Categories.Add(category);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

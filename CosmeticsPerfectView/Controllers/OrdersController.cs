@@ -26,8 +26,21 @@ namespace CosmeticsPerfectView.Controllers
         // GET: Orders
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Orders.Include(o => o.Products).Include(o => o.Users);
-            return View(await applicationDbContext.ToListAsync());
+            if (User.IsInRole("Admin"))
+            {
+                var borsaDbContext = _context.Orders
+                                    .Include(o => o.Users)
+                                    .Include(o => o.Products);
+                return View(await borsaDbContext.ToListAsync());
+            }
+            else
+            {
+                var borsaDbContext = _context.Orders
+                                    .Include(o => o.Users)
+                                    .Include(o => o.Products)
+                                    .Where(x => x.UserId == _userManager.GetUserId(User));
+                return View(await borsaDbContext.ToListAsync());
+            }
         }
 
         // GET: Orders/Details/5
@@ -53,7 +66,7 @@ namespace CosmeticsPerfectView.Controllers
         // GET: Orders/Create
         public IActionResult Create()
         {
-            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name  ");
+            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name");
             return View();
         }
 
@@ -66,20 +79,20 @@ namespace CosmeticsPerfectView.Controllers
         {
             if (ModelState.IsValid)
             {
-        
+               order.UserId=_userManager.GetUserId(User);
                 _context.Orders.Add(order);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Id", order.ProductsId);
+            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name", order.ProductsId);
             return View(order);
         }
 
         // GET: Orders/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int? id) 
         {
             if (id == null)
-            {
+            {  
                 return NotFound();
             }
 
@@ -88,8 +101,8 @@ namespace CosmeticsPerfectView.Controllers
             {
                 return NotFound();
             }
-            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Id", order.ProductsId);
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
+            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name", order.ProductsId);
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 
@@ -125,8 +138,8 @@ namespace CosmeticsPerfectView.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Id", order.ProductsId);
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
+            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name", order.ProductsId);
+            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Name", order.UserId);
             return View(order);
         }
 
