@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CosmeticsPerfectView.Data;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace CosmeticsPerfectView.Controllers
 {
@@ -19,10 +20,24 @@ namespace CosmeticsPerfectView.Controllers
         }
 
         // GET: Products
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string categ)
         {
-            var applicationDbContext = _context.Products.Include(p => p.Categories).Include(p => p.ProductTypes);
-            return View(await applicationDbContext.ToListAsync());
+            if (categ == null)
+            {
+                var applicationDbContext = _context.Products
+                .Include(p => p.Categories)
+                .Include(p => p.ProductTypes);
+                return View(await applicationDbContext.ToListAsync());
+            }
+            else
+            {
+                var applicationDbContext = _context.Products
+                .Include(p => p.Categories)
+                .Include(p => p.ProductTypes)
+                .Where(x => x.Categories.Name == categ);
+                return View(await applicationDbContext.ToListAsync());
+            }
+
         }
 
         // GET: Products/Details/5
@@ -106,7 +121,7 @@ namespace CosmeticsPerfectView.Controllers
             {
                 try
                 {
-   
+
                     _context.Products.Update(product);
                     await _context.SaveChangesAsync();
                 }

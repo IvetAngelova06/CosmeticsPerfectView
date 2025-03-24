@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CosmeticsPerfectView\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CosmeticsPerfectView\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T06:34:23.218Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAA0AAAAA73V7w7scwCsAAAB5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T06:18:58.487Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T21:11:59.88Z"
             }
           ]
         }

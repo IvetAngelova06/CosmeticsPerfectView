@@ -22,26 +22,23 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Начало</a>
                         </li>
-                        @* <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Продукти</a>
-                        </li> *@
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Промоции</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Промоции</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Парфюми</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index" asp-route-categ="Парфюми">Парфюми</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Грим</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index" asp-route-categ="Грим">Грим</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Медицинска козметика</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index" asp-route-categ="Медицинска козметика">Медицинска козметика</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Тяло</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index" asp-route-categ="Тяло">Тяло</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Коса</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index" asp-route-categ="Коса">Коса</a>
                         </li>
 
                         @if (User.IsInRole("Admin"))
