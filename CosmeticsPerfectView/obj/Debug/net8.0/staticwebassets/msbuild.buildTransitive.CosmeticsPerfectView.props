@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CosmeticsPerfectView.props" />
+</Project>
