@@ -1,26 +1,57 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
-.text-center{
-    
+.text-center {
 }
+
+.gallery {
+    width: 1035px;
+    height: 350px;
+    margin: auto;
+    overflow: hidden;
+    border: 2px groove #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.slides {
+    display: flex;
+    width: calc(1035px * 3); /* Ширина, базирана на броя снимки */
+    animation: slide 90s infinite;
+}
+
+    .slides img {
+        width: 1035px;
+        height: 347px;
+        flex-shrink: 0;
+    }
+
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-3105px); /* 3 снимки * 1035px */
+    }
+}
+

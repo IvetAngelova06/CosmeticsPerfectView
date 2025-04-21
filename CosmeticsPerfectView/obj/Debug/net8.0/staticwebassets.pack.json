@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid1.png",
+      "PackagePath": "staticwebassets\\img\\slaid1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid2.png",
+      "PackagePath": "staticwebassets\\img\\slaid2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid3.png",
+      "PackagePath": "staticwebassets\\img\\slaid3.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

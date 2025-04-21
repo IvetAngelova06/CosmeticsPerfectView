@@ -14,9 +14,6 @@ namespace CosmeticsPerfectView.Data
 
         [Column(TypeName = "decimal(10,2)")]
         public decimal Price { get; set; }
-
-
-        [Column(TypeName = "decimal(10,2)")]
         public decimal PromoPercent { get; set; }
         public string Description { get; set; }
         public DateTime DateRegister { get; set; } = DateTime.Now;

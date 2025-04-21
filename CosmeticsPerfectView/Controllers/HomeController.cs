@@ -12,6 +12,10 @@ namespace CosmeticsPerfectView.Controllers
         {
             _logger = logger;
         }
+        public IActionResult Begin()
+        {
+            return View();
+        }
 
         public IActionResult Index()
         {
