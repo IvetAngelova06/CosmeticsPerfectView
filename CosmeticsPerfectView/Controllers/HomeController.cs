@@ -21,7 +21,27 @@ namespace CosmeticsPerfectView.Controllers
         {
             return View();
         }
-
+        public IActionResult Dior()
+        {
+            return View();
+        }
+        public IActionResult YSL()
+        {
+            return View();
+        }
+        public IActionResult Avene()
+        {
+            return View();
+        }
+        public IActionResult SDJ()
+        {
+            return View();
+        }
+        public IActionResult Kerastase()
+        {
+            return View();
+        }
+       
         public IActionResult Privacy()
         {
             return View();

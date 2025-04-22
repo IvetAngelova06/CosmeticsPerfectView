@@ -13,40 +13,52 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro.png",
-      "PackagePath": "staticwebassets\\img\\SolDeJaneiro.png"
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid1.png",
+      "PackagePath": "staticwebassets\\img\\Gallery1\\slaid1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSLlogo.png",
-      "PackagePath": "staticwebassets\\img\\YSLlogo.png"
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid2.png",
+      "PackagePath": "staticwebassets\\img\\Gallery1\\slaid2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\aveneLogo.png",
-      "PackagePath": "staticwebassets\\img\\aveneLogo.png"
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid3.png",
+      "PackagePath": "staticwebassets\\img\\Gallery1\\slaid3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\diorLogo.png",
-      "PackagePath": "staticwebassets\\img\\diorLogo.png"
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorJadore.png",
+      "PackagePath": "staticwebassets\\img\\Gallery2\\DiorJadore.png"
     },
     {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\kerastaseLogo.png",
-      "PackagePath": "staticwebassets\\img\\kerastaseLogo.png"
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorLipGlow.png",
+      "PackagePath": "staticwebassets\\img\\Gallery2\\DiorLipGlow.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorSauvage.png",
+      "PackagePath": "staticwebassets\\img\\Gallery2\\DiorSauvage.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\SolDeJaneiro.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\SolDeJaneiro.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\YSLlogo.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\YSLlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\aveneLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\aveneLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\diorLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\diorLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\kerastaseLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\kerastaseLogo.png"
     },
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid1.png",
-      "PackagePath": "staticwebassets\\img\\slaid1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid2.png",
-      "PackagePath": "staticwebassets\\img\\slaid2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid3.png",
-      "PackagePath": "staticwebassets\\img\\slaid3.png"
     },
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\js\\site.js",

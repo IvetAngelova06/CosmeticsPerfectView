@@ -36,7 +36,7 @@ body {
 .slides {
     display: flex;
     width: calc(1035px * 3); /* Ширина, базирана на броя снимки */
-    animation: slide 90s infinite;
+    animation: slide 180s infinite;
 }
 
     .slides img {
@@ -58,22 +58,32 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-width:88px;
-    height:3px;
-    padding:15px;
-    margin-top:50px;
+    min-width: 88px;
+    height: 3px;
+    padding: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
     .line img {
-        padding: 0 30px;  /*Хоризонтален отстъп около логото */
-        scroll-snap-align: center; /* Центрира логото при скролиране на мобилни */
-        flex-shrink: 0;  /*Забранява свиване на логото при малък екран */
+        scroll-snap-align: center; /* Центрира логото при телефони*/
+        flex-shrink: 0; /*Логото не се свива при малък екран */
+        width: 170px;
     }
-        .line img:not(:last-child) {
-            border-right: 1px solid #ddd;  /*Вертикална сива линия между логата */
-        }
-
         .line img:hover {
             filter: none;  /*Връща оригиналния цвят при посочване */
-            transform: scale(1.05);  /*Леко увеличава логото при hover */
-            transition: 0.3s;  /*Плавен преход при hover */
+            transform: scale(1.05);  /*Увеличава логото при hover */
+            transition: 0.3s;  /*Преход при hover */
         }
+.diorLogo {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin-bottom: 50px;
+}
+.content {
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    align-items: flex-start;
+    gap: 50px;
+    margin-top: 50px;
+}   

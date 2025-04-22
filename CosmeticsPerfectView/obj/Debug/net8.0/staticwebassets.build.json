@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9YwoS/JUQBjT7nbXvHVbFWLRLI5rN+VxkMjz18h4op4=",
+  "Hash": "S+lbnYBclrb53cgz2rUBNW+lyNzrKvfT/35CnYYzZWE=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lwv4whxdjh",
-      "Integrity": "hc6tjWrHRZQinuLLSlsHnFdIfh/C6qUPJJnEpj3xDrw=",
+      "Fingerprint": "39io4ap6sh",
+      "Integrity": "Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1361,12 +1361,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\aveneLogo.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid1.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/aveneLogo#[.{fingerprint}]?.png",
+      "RelativePath": "img/Gallery1/slaid1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,19 +1375,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x023vlgwh4",
-      "Integrity": "/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=",
+      "Fingerprint": "vzv5xe7k6q",
+      "Integrity": "xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\aveneLogo.png"
+      "OriginalItemSpec": "wwwroot\\img\\Gallery1\\slaid1.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\diorLogo.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid2.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/diorLogo#[.{fingerprint}]?.png",
+      "RelativePath": "img/Gallery1/slaid2#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1396,19 +1396,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i9y2kbndzp",
-      "Integrity": "9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=",
+      "Fingerprint": "w3widdmqn9",
+      "Integrity": "DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\diorLogo.png"
+      "OriginalItemSpec": "wwwroot\\img\\Gallery1\\slaid2.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\kerastaseLogo.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid3.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/kerastaseLogo#[.{fingerprint}]?.png",
+      "RelativePath": "img/Gallery1/slaid3#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1417,11 +1417,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zvficmq0wz",
-      "Integrity": "72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=",
+      "Fingerprint": "ta0mogtomy",
+      "Integrity": "BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\kerastaseLogo.png"
+      "OriginalItemSpec": "wwwroot\\img\\Gallery1\\slaid3.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorJadore.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery2/DiorJadore#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ditny8del",
+      "Integrity": "NgGwvUO5pcAUiey3vrlMsLaA7O6QROjRG4b3wkoVxyc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery2\\DiorJadore.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorLipGlow.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery2/DiorLipGlow#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pnu16zyepb",
+      "Integrity": "dSP8pA86Ind3IeNIl+WR19HCxl3b8DYkkRj/uPvxyw4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery2\\DiorLipGlow.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorSauvage.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery2/DiorSauvage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8pvd1auty",
+      "Integrity": "iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery2\\DiorSauvage.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\logo.png",
@@ -1445,12 +1508,12 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid1.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\aveneLogo.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/slaid1#[.{fingerprint}]?.png",
+      "RelativePath": "img/Logo/aveneLogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,19 +1522,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vzv5xe7k6q",
-      "Integrity": "xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=",
+      "Fingerprint": "x023vlgwh4",
+      "Integrity": "/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slaid1.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo\\aveneLogo.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid2.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\diorLogo.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/slaid2#[.{fingerprint}]?.png",
+      "RelativePath": "img/Logo/diorLogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1480,19 +1543,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w3widdmqn9",
-      "Integrity": "DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=",
+      "Fingerprint": "i9y2kbndzp",
+      "Integrity": "9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slaid2.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo\\diorLogo.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid3.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\kerastaseLogo.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/slaid3#[.{fingerprint}]?.png",
+      "RelativePath": "img/Logo/kerastaseLogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1501,19 +1564,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ta0mogtomy",
-      "Integrity": "BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=",
+      "Fingerprint": "zvficmq0wz",
+      "Integrity": "72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slaid3.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo\\kerastaseLogo.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\SolDeJaneiro.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/SolDeJaneiro#[.{fingerprint}]?.png",
+      "RelativePath": "img/Logo/SolDeJaneiro#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1526,15 +1589,15 @@
       "Integrity": "2zJ9bNd0x5Oi/Bp8GLBlkOAYUMVuSIzb0BlVsA3yllo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo\\SolDeJaneiro.png"
     },
     {
-      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSLlogo.png",
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\YSLlogo.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
       "BasePath": "_content/CosmeticsPerfectView",
-      "RelativePath": "img/YSLlogo#[.{fingerprint}]?.png",
+      "RelativePath": "img/Logo/YSLlogo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1547,7 +1610,7 @@
       "Integrity": "A57mATXYVogO+eV7jfGb9QMoJ+pJT1us/2jRmSKbGus=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\YSLlogo.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo\\YSLlogo.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\js\\site.js",
@@ -2934,6 +2997,51 @@
       ]
     },
     {
+      "Route": "css/site.39io4ap6sh.css",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 21:26:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39io4ap6sh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2944,7 +3052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1249"
+          "Value": "1866"
         },
         {
           "Name": "Content-Type",
@@ -2952,11 +3060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hc6tjWrHRZQinuLLSlsHnFdIfh/C6qUPJJnEpj3xDrw=\""
+          "Value": "\"Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:36:41 GMT"
+          "Value": "Tue, 22 Apr 2025 21:26:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2966,52 +3074,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hc6tjWrHRZQinuLLSlsHnFdIfh/C6qUPJJnEpj3xDrw="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.lwv4whxdjh.css",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1249"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hc6tjWrHRZQinuLLSlsHnFdIfh/C6qUPJJnEpj3xDrw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:36:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lwv4whxdjh"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hc6tjWrHRZQinuLLSlsHnFdIfh/C6qUPJJnEpj3xDrw="
+          "Value": "sha256-Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I="
         }
       ]
     },
@@ -5318,8 +5381,8 @@
       ]
     },
     {
-      "Route": "img/aveneLogo.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\aveneLogo.png",
+      "Route": "img/Gallery1/slaid1.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5328,7 +5391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1821"
+          "Value": "74325"
         },
         {
           "Name": "Content-Type",
@@ -5336,11 +5399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=\""
+          "Value": "\"xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:59:59 GMT"
+          "Value": "Thu, 17 Apr 2025 13:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5350,13 +5413,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y="
+          "Value": "sha256-xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4="
         }
       ]
     },
     {
-      "Route": "img/aveneLogo.x023vlgwh4.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\aveneLogo.png",
+      "Route": "img/Gallery1/slaid1.vzv5xe7k6q.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5365,7 +5428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1821"
+          "Value": "74325"
         },
         {
           "Name": "Content-Type",
@@ -5373,11 +5436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=\""
+          "Value": "\"xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:59:59 GMT"
+          "Value": "Thu, 17 Apr 2025 13:46:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5387,21 +5450,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x023vlgwh4"
+          "Value": "vzv5xe7k6q"
         },
         {
           "Name": "label",
-          "Value": "img/aveneLogo.png"
+          "Value": "img/Gallery1/slaid1.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y="
+          "Value": "sha256-xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4="
         }
       ]
     },
     {
-      "Route": "img/diorLogo.i9y2kbndzp.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\diorLogo.png",
+      "Route": "img/Gallery1/slaid2.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5410,7 +5473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5742"
+          "Value": "80474"
         },
         {
           "Name": "Content-Type",
@@ -5418,56 +5481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=\""
+          "Value": "\"DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:32:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i9y2kbndzp"
-        },
-        {
-          "Name": "label",
-          "Value": "img/diorLogo.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk="
-        }
-      ]
-    },
-    {
-      "Route": "img/diorLogo.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\diorLogo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5742"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:32:47 GMT"
+          "Value": "Thu, 17 Apr 2025 13:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5477,13 +5495,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk="
+          "Value": "sha256-DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ="
         }
       ]
     },
     {
-      "Route": "img/kerastaseLogo.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\kerastaseLogo.png",
+      "Route": "img/Gallery1/slaid2.w3widdmqn9.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5492,7 +5510,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6634"
+          "Value": "80474"
         },
         {
           "Name": "Content-Type",
@@ -5500,48 +5518,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=\""
+          "Value": "\"DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:53:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU="
-        }
-      ]
-    },
-    {
-      "Route": "img/kerastaseLogo.zvficmq0wz.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\kerastaseLogo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6634"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:53:26 GMT"
+          "Value": "Thu, 17 Apr 2025 13:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5551,15 +5532,343 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zvficmq0wz"
+          "Value": "w3widdmqn9"
         },
         {
           "Name": "label",
-          "Value": "img/kerastaseLogo.png"
+          "Value": "img/Gallery1/slaid2.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU="
+          "Value": "sha256-DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery1/slaid3.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery1/slaid3.ta0mogtomy.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery1\\slaid3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta0mogtomy"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery1/slaid3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorJadore.2ditny8del.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorJadore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NgGwvUO5pcAUiey3vrlMsLaA7O6QROjRG4b3wkoVxyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:26:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ditny8del"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery2/DiorJadore.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NgGwvUO5pcAUiey3vrlMsLaA7O6QROjRG4b3wkoVxyc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorJadore.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorJadore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NgGwvUO5pcAUiey3vrlMsLaA7O6QROjRG4b3wkoVxyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:26:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NgGwvUO5pcAUiey3vrlMsLaA7O6QROjRG4b3wkoVxyc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorLipGlow.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorLipGlow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSP8pA86Ind3IeNIl+WR19HCxl3b8DYkkRj/uPvxyw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSP8pA86Ind3IeNIl+WR19HCxl3b8DYkkRj/uPvxyw4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorLipGlow.pnu16zyepb.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorLipGlow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSP8pA86Ind3IeNIl+WR19HCxl3b8DYkkRj/uPvxyw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pnu16zyepb"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery2/DiorLipGlow.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSP8pA86Ind3IeNIl+WR19HCxl3b8DYkkRj/uPvxyw4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorSauvage.p8pvd1auty.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorSauvage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:25:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8pvd1auty"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery2/DiorSauvage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery2/DiorSauvage.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery2\\DiorSauvage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:25:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk="
         }
       ]
     },
@@ -5646,8 +5955,8 @@
       ]
     },
     {
-      "Route": "img/slaid1.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid1.png",
+      "Route": "img/Logo/aveneLogo.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\aveneLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5656,7 +5965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74325"
+          "Value": "1821"
         },
         {
           "Name": "Content-Type",
@@ -5664,11 +5973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=\""
+          "Value": "\"/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:46:37 GMT"
+          "Value": "Mon, 21 Apr 2025 19:59:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5678,13 +5987,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4="
+          "Value": "sha256-/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y="
         }
       ]
     },
     {
-      "Route": "img/slaid1.vzv5xe7k6q.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid1.png",
+      "Route": "img/Logo/aveneLogo.x023vlgwh4.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\aveneLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5693,7 +6002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74325"
+          "Value": "1821"
         },
         {
           "Name": "Content-Type",
@@ -5701,11 +6010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4=\""
+          "Value": "\"/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:46:37 GMT"
+          "Value": "Mon, 21 Apr 2025 19:59:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5715,21 +6024,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vzv5xe7k6q"
+          "Value": "x023vlgwh4"
         },
         {
           "Name": "label",
-          "Value": "img/slaid1.png"
+          "Value": "img/Logo/aveneLogo.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xaW0syHvsW7WOz0AasPfdghYio173v+GV+phLEU9xG4="
+          "Value": "sha256-/9/pD51t0FybY1qAmMxqyYmFiX8ZHYkMlEZ+rGdUA7Y="
         }
       ]
     },
     {
-      "Route": "img/slaid2.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid2.png",
+      "Route": "img/Logo/diorLogo.i9y2kbndzp.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\diorLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5738,7 +6047,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80474"
+          "Value": "5742"
         },
         {
           "Name": "Content-Type",
@@ -5746,11 +6055,56 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=\""
+          "Value": "\"9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:45:18 GMT"
+          "Value": "Mon, 21 Apr 2025 19:32:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9y2kbndzp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Logo/diorLogo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logo/diorLogo.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\diorLogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 19:32:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5760,13 +6114,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ="
+          "Value": "sha256-9mmi/ISyvUNwuP6yNEcEFoMEhdrFcS+tE21PpbLcqrk="
         }
       ]
     },
     {
-      "Route": "img/slaid2.w3widdmqn9.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid2.png",
+      "Route": "img/Logo/kerastaseLogo.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\kerastaseLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5775,7 +6129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80474"
+          "Value": "6634"
         },
         {
           "Name": "Content-Type",
@@ -5783,56 +6137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ=\""
+          "Value": "\"72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:45:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w3widdmqn9"
-        },
-        {
-          "Name": "label",
-          "Value": "img/slaid2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DNSt1fH70r1DdFHvch8uSQPmdMMI2NjpREd0dHKIPkQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/slaid3.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "47729"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:47:23 GMT"
+          "Value": "Mon, 21 Apr 2025 19:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5842,13 +6151,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos="
+          "Value": "sha256-72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU="
         }
       ]
     },
     {
-      "Route": "img/slaid3.ta0mogtomy.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\slaid3.png",
+      "Route": "img/Logo/kerastaseLogo.zvficmq0wz.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\kerastaseLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5857,7 +6166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47729"
+          "Value": "6634"
         },
         {
           "Name": "Content-Type",
@@ -5865,11 +6174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos=\""
+          "Value": "\"72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:47:23 GMT"
+          "Value": "Mon, 21 Apr 2025 19:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5879,21 +6188,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ta0mogtomy"
+          "Value": "zvficmq0wz"
         },
         {
           "Name": "label",
-          "Value": "img/slaid3.png"
+          "Value": "img/Logo/kerastaseLogo.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BdOpR+32pupq51Pjfb3vAE8US3oipqP7agYTRbLapos="
+          "Value": "sha256-72RekFUCCI9IgfoONaUcyDAndFq/8Yu9eXb24JbI5cU="
         }
       ]
     },
     {
-      "Route": "img/SolDeJaneiro.15zdiqq584.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro.png",
+      "Route": "img/Logo/SolDeJaneiro.15zdiqq584.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\SolDeJaneiro.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5928,7 +6237,7 @@
         },
         {
           "Name": "label",
-          "Value": "img/SolDeJaneiro.png"
+          "Value": "img/Logo/SolDeJaneiro.png"
         },
         {
           "Name": "integrity",
@@ -5937,8 +6246,8 @@
       ]
     },
     {
-      "Route": "img/SolDeJaneiro.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro.png",
+      "Route": "img/Logo/SolDeJaneiro.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\SolDeJaneiro.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5974,8 +6283,8 @@
       ]
     },
     {
-      "Route": "img/YSLlogo.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSLlogo.png",
+      "Route": "img/Logo/YSLlogo.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\YSLlogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6011,8 +6320,8 @@
       ]
     },
     {
-      "Route": "img/YSLlogo.r6hs8o336i.png",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSLlogo.png",
+      "Route": "img/Logo/YSLlogo.r6hs8o336i.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\YSLlogo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6047,7 +6356,7 @@
         },
         {
           "Name": "label",
-          "Value": "img/YSLlogo.png"
+          "Value": "img/Logo/YSLlogo.png"
         },
         {
           "Name": "integrity",
