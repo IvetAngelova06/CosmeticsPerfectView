@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSLlogo.png",
+      "PackagePath": "staticwebassets\\img\\YSLlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\aveneLogo.png",
+      "PackagePath": "staticwebassets\\img\\aveneLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\diorLogo.png",
+      "PackagePath": "staticwebassets\\img\\diorLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\kerastaseLogo.png",
+      "PackagePath": "staticwebassets\\img\\kerastaseLogo.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },

@@ -1,9 +1,14 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\aveneLogo.png
+wwwroot\img\diorLogo.png
+wwwroot\img\kerastaseLogo.png
 wwwroot\img\logo.png
 wwwroot\img\slaid1.png
 wwwroot\img\slaid2.png
 wwwroot\img\slaid3.png
+wwwroot\img\SolDeJaneiro.png
+wwwroot\img\YSLlogo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

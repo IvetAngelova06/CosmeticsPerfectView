@@ -54,4 +54,26 @@ body {
         transform: translateX(-3105px); /* 3 снимки * 1035px */
     }
 }
+.line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width:88px;
+    height:3px;
+    padding:15px;
+    margin-top:50px;
+}
+    .line img {
+        padding: 0 30px;  /*Хоризонтален отстъп около логото */
+        scroll-snap-align: center; /* Центрира логото при скролиране на мобилни */
+        flex-shrink: 0;  /*Забранява свиване на логото при малък екран */
+    }
+        .line img:not(:last-child) {
+            border-right: 1px solid #ddd;  /*Вертикална сива линия между логата */
+        }
 
+        .line img:hover {
+            filter: none;  /*Връща оригиналния цвят при посочване */
+            transform: scale(1.05);  /*Леко увеличава логото при hover */
+            transition: 0.3s;  /*Плавен преход при hover */
+        }
