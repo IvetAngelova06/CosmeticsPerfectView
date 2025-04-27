@@ -36,7 +36,7 @@ body {
 .slides {
     display: flex;
     width: calc(1035px * 3); /* Ширина, базирана на броя снимки */
-    animation: slide 180s infinite;
+    animation: slide 110s infinite;
 }
 
     .slides img {

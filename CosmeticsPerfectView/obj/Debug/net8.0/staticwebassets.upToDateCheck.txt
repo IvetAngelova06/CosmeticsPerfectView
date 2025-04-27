@@ -1,5 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\Dior\addictLip.png
+wwwroot\img\Dior\homme.png
+wwwroot\img\Dior\jadore.png
+wwwroot\img\Dior\miss.png
+wwwroot\img\Dior\rouge.png
+wwwroot\img\Dior\sauvage.png
 wwwroot\img\Gallery1\slaid1.png
 wwwroot\img\Gallery1\slaid2.png
 wwwroot\img\Gallery1\slaid3.png

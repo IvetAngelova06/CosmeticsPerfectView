@@ -2305,7 +2305,7 @@
       ]
     },
     {
-      "Route": "css/site.39io4ap6sh.css",
+      "Route": "css/site.72x5agvv9p.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2327,21 +2327,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I=\""
+          "Value": "\"n3AYsBIwKAhAhmeka3J4xYFf6yAggeY+YGV2549hEEw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 21:26:45 GMT"
+          "Value": "Wed, 23 Apr 2025 10:22:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "39io4ap6sh"
+          "Value": "72x5agvv9p"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I="
+          "Value": "sha256-n3AYsBIwKAhAhmeka3J4xYFf6yAggeY+YGV2549hEEw="
         },
         {
           "Name": "label",
@@ -2372,17 +2372,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I=\""
+          "Value": "\"n3AYsBIwKAhAhmeka3J4xYFf6yAggeY+YGV2549hEEw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 21:26:45 GMT"
+          "Value": "Wed, 23 Apr 2025 10:22:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z26Q/ErZmndvA6c+GL21n7j0DkNCAbI4wkMIQvyTz1I="
+          "Value": "sha256-n3AYsBIwKAhAhmeka3J4xYFf6yAggeY+YGV2549hEEw="
         }
       ]
     },
@@ -2465,6 +2465,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/addictLip.4c59h7ywl4.png",
+      "AssetFile": "img/Dior/addictLip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNBhlm8XvN1Iv9GufK0nfeOhl34y9JitBR1qtXTpKHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:41:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4c59h7ywl4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNBhlm8XvN1Iv9GufK0nfeOhl34y9JitBR1qtXTpKHo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/addictLip.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/addictLip.png",
+      "AssetFile": "img/Dior/addictLip.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNBhlm8XvN1Iv9GufK0nfeOhl34y9JitBR1qtXTpKHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:41:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNBhlm8XvN1Iv9GufK0nfeOhl34y9JitBR1qtXTpKHo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/homme.84iaefpdmp.png",
+      "AssetFile": "img/Dior/homme.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEtWyqJzGsTvOTjwzfjsHc8UlR+2qApY8+FSoezZko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:38:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "84iaefpdmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEtWyqJzGsTvOTjwzfjsHc8UlR+2qApY8+FSoezZko8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/homme.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/homme.png",
+      "AssetFile": "img/Dior/homme.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEtWyqJzGsTvOTjwzfjsHc8UlR+2qApY8+FSoezZko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:38:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEtWyqJzGsTvOTjwzfjsHc8UlR+2qApY8+FSoezZko8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/jadore.e2peazfvih.png",
+      "AssetFile": "img/Dior/jadore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtygLX50BZgqPFJHfYtFgjS9phArAYgkkQOgYj3Qvfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:39:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2peazfvih"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtygLX50BZgqPFJHfYtFgjS9phArAYgkkQOgYj3Qvfs="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/jadore.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/jadore.png",
+      "AssetFile": "img/Dior/jadore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZtygLX50BZgqPFJHfYtFgjS9phArAYgkkQOgYj3Qvfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:39:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZtygLX50BZgqPFJHfYtFgjS9phArAYgkkQOgYj3Qvfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/miss.5070h1lmm4.png",
+      "AssetFile": "img/Dior/miss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i7clv3TTcZawXLkpEzYehtHN/tplGi+c8mOyXeAwjqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:39:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5070h1lmm4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i7clv3TTcZawXLkpEzYehtHN/tplGi+c8mOyXeAwjqo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/miss.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/miss.png",
+      "AssetFile": "img/Dior/miss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i7clv3TTcZawXLkpEzYehtHN/tplGi+c8mOyXeAwjqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:39:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i7clv3TTcZawXLkpEzYehtHN/tplGi+c8mOyXeAwjqo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/rouge.josgnk5xfz.png",
+      "AssetFile": "img/Dior/rouge.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTNlDerozIirm1J3hsRgrHrj1qxfCGNzywSK3+ABBnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:42:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "josgnk5xfz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTNlDerozIirm1J3hsRgrHrj1qxfCGNzywSK3+ABBnc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/rouge.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/rouge.png",
+      "AssetFile": "img/Dior/rouge.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTNlDerozIirm1J3hsRgrHrj1qxfCGNzywSK3+ABBnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:42:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTNlDerozIirm1J3hsRgrHrj1qxfCGNzywSK3+ABBnc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/sauvage.png",
+      "AssetFile": "img/Dior/sauvage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+ZwpTCReQuZGvG1cHNA9pFJAlm+dSXV5cILVNzwlwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:37:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+ZwpTCReQuZGvG1cHNA9pFJAlm+dSXV5cILVNzwlwY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Dior/sauvage.xgbewu5lfz.png",
+      "AssetFile": "img/Dior/sauvage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+ZwpTCReQuZGvG1cHNA9pFJAlm+dSXV5cILVNzwlwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 20:37:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xgbewu5lfz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+ZwpTCReQuZGvG1cHNA9pFJAlm+dSXV5cILVNzwlwY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Dior/sauvage.png"
         }
       ]
     },
@@ -3617,7 +4109,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.0au93u4lun.css",
       "AssetFile": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3631,7 +4123,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70538"
+          "Value": "70546"
         },
         {
           "Name": "Content-Type",
@@ -3639,21 +4131,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=\""
+          "Value": "\"iJw0wL2jtvIa21tyt5jg4dQNwGp738uINS+o1NLkILQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 21:42:08 GMT"
+          "Value": "Wed, 23 Apr 2025 07:06:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agp80tu62r"
+          "Value": "0au93u4lun"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4="
+          "Value": "sha256-iJw0wL2jtvIa21tyt5jg4dQNwGp738uINS+o1NLkILQ="
         },
         {
           "Name": "label",
@@ -3676,7 +4168,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70538"
+          "Value": "70546"
         },
         {
           "Name": "Content-Type",
@@ -3684,17 +4176,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=\""
+          "Value": "\"iJw0wL2jtvIa21tyt5jg4dQNwGp738uINS+o1NLkILQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 21:42:08 GMT"
+          "Value": "Wed, 23 Apr 2025 07:06:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4="
+          "Value": "sha256-iJw0wL2jtvIa21tyt5jg4dQNwGp738uINS+o1NLkILQ="
         }
       ]
     },
