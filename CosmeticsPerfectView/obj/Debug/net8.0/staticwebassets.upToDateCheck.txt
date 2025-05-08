@@ -12,6 +12,9 @@ wwwroot\img\Gallery1\slaid3.png
 wwwroot\img\Gallery2\DiorJadore.png
 wwwroot\img\Gallery2\DiorLipGlow.png
 wwwroot\img\Gallery2\DiorSauvage.png
+wwwroot\img\Gallery3\YslBlackOpium.png
+wwwroot\img\Gallery3\YslLashClash.png
+wwwroot\img\Gallery3\YslY.png
 wwwroot\img\logo.png
 wwwroot\img\Logo\aveneLogo.png
 wwwroot\img\Logo\diorLogo.png

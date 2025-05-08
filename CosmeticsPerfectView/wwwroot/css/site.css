@@ -74,7 +74,7 @@ body {
             transform: scale(1.05);  /*Увеличава логото при hover */
             transition: 0.3s;  /*Преход при hover */
         }
-.diorLogo {
+.firstLogo {
     display: flex;
     justify-content: center;
     height: 100px;

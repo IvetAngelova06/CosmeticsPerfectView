@@ -180,6 +180,42 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc\u002BNg0Tk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"131168"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc\u002BNg0Tk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 20:25:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslBlackOpium.mwz078tlve.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslBlackOpium.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mwz078tlve"},{"Name":"integrity","Value":"sha256-xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Gallery3/YslBlackOpium.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:49:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslBlackOpium.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslBlackOpium.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:49:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslLashClash.c0bqfg70op.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslLashClash.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c0bqfg70op"},{"Name":"integrity","Value":"sha256-PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Gallery3/YslLashClash.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101905"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:51:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslLashClash.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslLashClash.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101905"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:51:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslY.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslY.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hbA34pRDScc7TKO\u002Bs7srhe6sCrsiR00J3oSSpuSxrmo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"86543"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hbA34pRDScc7TKO\u002Bs7srhe6sCrsiR00J3oSSpuSxrmo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:50:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Gallery3/YslY.ta0o1izdtm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Gallery3\YslY.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ta0o1izdtm"},{"Name":"integrity","Value":"sha256-hbA34pRDScc7TKO\u002Bs7srhe6sCrsiR00J3oSSpuSxrmo="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Gallery3/YslY.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86543"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hbA34pRDScc7TKO\u002Bs7srhe6sCrsiR00J3oSSpuSxrmo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 14:50:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/logo.oekm4wjgrg.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

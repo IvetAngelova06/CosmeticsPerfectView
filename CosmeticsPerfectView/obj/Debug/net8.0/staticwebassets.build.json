@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l2gCQq2sXHlHKAoXb9zgX+sAfPuxGssd1xGWFvnld3o=",
+  "Hash": "lLOHO/XZCICvM+1/aZZ7vpqXJUm2XRVQA1xtLIrs4pY=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -1611,6 +1611,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Gallery2\\DiorSauvage.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslBlackOpium.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery3/YslBlackOpium#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mwz078tlve",
+      "Integrity": "xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery3\\YslBlackOpium.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslLashClash.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery3/YslLashClash#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c0bqfg70op",
+      "Integrity": "PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery3\\YslLashClash.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslY.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Gallery3/YslY#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta0o1izdtm",
+      "Integrity": "hbA34pRDScc7TKO+s7srhe6sCrsiR00J3oSSpuSxrmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Gallery3\\YslY.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\logo.png",
@@ -6487,6 +6550,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-iYLFJYtFIRQQeH5oKcdJFxFW2ubPX5ZAeYWjc+Ng0Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslBlackOpium.mwz078tlve.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslBlackOpium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwz078tlve"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery3/YslBlackOpium.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslBlackOpium.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslBlackOpium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkxg38M9AqVBpQ/Rymf4GSW01s1Ztnuy0LrYtUlCnNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslLashClash.c0bqfg70op.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslLashClash.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:51:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0bqfg70op"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery3/YslLashClash.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslLashClash.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslLashClash.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:51:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PNmC25egHXMFSyhYAwR8QNxBYGzKINpnpQOMQFrNj7E="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslY.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslY.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbA34pRDScc7TKO+s7srhe6sCrsiR00J3oSSpuSxrmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbA34pRDScc7TKO+s7srhe6sCrsiR00J3oSSpuSxrmo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Gallery3/YslY.ta0o1izdtm.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslY.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbA34pRDScc7TKO+s7srhe6sCrsiR00J3oSSpuSxrmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 14:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta0o1izdtm"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Gallery3/YslY.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbA34pRDScc7TKO+s7srhe6sCrsiR00J3oSSpuSxrmo="
         }
       ]
     },
