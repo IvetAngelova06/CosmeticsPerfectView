@@ -1,3 +1,4 @@
+wwwroot\css\PageCSS.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\img\Dior\addictLip.png
@@ -15,6 +16,15 @@ wwwroot\img\Gallery2\DiorSauvage.png
 wwwroot\img\Gallery3\YslBlackOpium.png
 wwwroot\img\Gallery3\YslLashClash.png
 wwwroot\img\Gallery3\YslY.png
+wwwroot\img\Gallery4\AveneCleanance.png
+wwwroot\img\Gallery4\AveneXeracalm.png
+wwwroot\img\Gallery4\Cleanance.png
+wwwroot\img\Gallery5\Sdj.png
+wwwroot\img\Gallery5\SdjBrandbannerEvergreen.png
+wwwroot\img\Gallery5\SdjSPF.png
+wwwroot\img\Gallery6\FkKerastase.png
+wwwroot\img\Gallery6\KerastaseOil.png
+wwwroot\img\Gallery6\KerastasePremiere.png
 wwwroot\img\logo.png
 wwwroot\img\Logo\aveneLogo.png
 wwwroot\img\Logo\diorLogo.png

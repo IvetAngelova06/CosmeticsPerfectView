@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CosmeticsPerfectView.jxmlac6zue.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
+      "PackagePath": "staticwebassets\\css\\PageCSS.css"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -71,6 +75,42 @@
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery3\\YslY.png",
       "PackagePath": "staticwebassets\\img\\Gallery3\\YslY.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery4\\AveneCleanance.png",
+      "PackagePath": "staticwebassets\\img\\Gallery4\\AveneCleanance.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery4\\AveneXeracalm.png",
+      "PackagePath": "staticwebassets\\img\\Gallery4\\AveneXeracalm.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery4\\Cleanance.png",
+      "PackagePath": "staticwebassets\\img\\Gallery4\\Cleanance.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery5\\Sdj.png",
+      "PackagePath": "staticwebassets\\img\\Gallery5\\Sdj.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery5\\SdjBrandbannerEvergreen.png",
+      "PackagePath": "staticwebassets\\img\\Gallery5\\SdjBrandbannerEvergreen.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery5\\SdjSPF.png",
+      "PackagePath": "staticwebassets\\img\\Gallery5\\SdjSPF.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery6\\FkKerastase.png",
+      "PackagePath": "staticwebassets\\img\\Gallery6\\FkKerastase.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery6\\KerastaseOil.png",
+      "PackagePath": "staticwebassets\\img\\Gallery6\\KerastaseOil.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Gallery6\\KerastasePremiere.png",
+      "PackagePath": "staticwebassets\\img\\Gallery6\\KerastasePremiere.png"
     },
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\SolDeJaneiro.png",
