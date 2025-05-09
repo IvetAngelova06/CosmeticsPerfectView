@@ -6,9 +6,12 @@
 
 <h1>Index</h1>
 
-<p>
-	<a asp-action="Create">Create New</a>
-</p>
+@if (User.IsInRole("Admin"))
+{
+	<p>
+		<a asp-action="Create">Create New</a>
+	</p>
+}
 <table class="table">
 	<thead>
 		<tr>
@@ -33,9 +36,12 @@
 			<th>
 				@Html.DisplayNameFor(model => model.Description)
 			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.DateRegister)
-			</th>
+			@if (User.IsInRole("Admin"))
+			{
+				<th>
+					@Html.DisplayNameFor(model => model.DateRegister)
+				</th>
+			}
 			<th></th>
 		</tr>
 	</thead>
@@ -64,9 +70,12 @@
 				<td>
 					@Html.DisplayFor(modelItem => item.Description)
 				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.DateRegister)
-				</td>
+				@if (User.IsInRole("Admin"))
+				{
+					<td>
+						@Html.DisplayFor(modelItem => item.DateRegister)
+					</td>
+				}
 				<td>
 					<a asp-action="Details" asp-route-id="@item.Id">Details</a>
 					@if (User.IsInRole("Admin"))
