@@ -41,6 +41,14 @@ wwwroot\img\Logo\diorLogo.png
 wwwroot\img\Logo\kerastaseLogo.png
 wwwroot\img\Logo\SolDeJaneiro.png
 wwwroot\img\Logo\YSLlogo.png
+wwwroot\img\SolDeJaneiro\BeijaFlor.png
+wwwroot\img\SolDeJaneiro\BomDia.png
+wwwroot\img\SolDeJaneiro\BrazilianBum.png
+wwwroot\img\SolDeJaneiro\BrazilianBumBum.png
+wwwroot\img\SolDeJaneiro\BrazilianCrushCheirosa.png
+wwwroot\img\SolDeJaneiro\RioRadiance.png
+wwwroot\img\SolDeJaneiro\RioRadianceLosion.png
+wwwroot\img\SolDeJaneiro\RioRadianceOil.png
 wwwroot\img\YSL\MYSLFysl.png
 wwwroot\img\YSL\YSLblacOpium.png
 wwwroot\img\YSL\YslBlushBold.png

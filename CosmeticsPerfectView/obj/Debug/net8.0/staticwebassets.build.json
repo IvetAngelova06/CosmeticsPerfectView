@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Fhy1wUcPSyDVyPTZmXRbxdLq+X1MLMu/1Qxi1bElu4=",
+  "Hash": "KG2pHRcaPf6JB3Xi4WdVuCSLbN9Dg/muMKm2pqXfJn4=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -2220,6 +2220,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logo\\YSLlogo.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/BeijaFlor#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8l7412sn35",
+      "Integrity": "lJe5cLcd242XrEDQ/GgXDrRZfF+v4aZ62mWl1niFAVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BomDia.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/BomDia#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ua48t6f4gs",
+      "Integrity": "OjPITeRxTriMON2peLGvqy/UwXrdflFvHEygJTaDEC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\BomDia.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBum.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/BrazilianBum#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zy282qzvlw",
+      "Integrity": "C5uLca8tPVIxCIadfeqajR2WjayJRwReybAyZUhd3m0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\BrazilianBum.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBumBum.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/BrazilianBumBum#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rbnco58ijz",
+      "Integrity": "6bKynpnJqWvNVYZYZ3/AIMDPrVKA1W9vPQJUl5h3bH4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\BrazilianBumBum.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/BrazilianCrushCheirosa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r3fxw3jjjq",
+      "Integrity": "STksYENfCfzuEGj6X7LqbGs5aL7w5gpql+iSUXCmAgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadiance.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/RioRadiance#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g9ue1zlftd",
+      "Integrity": "TFLkPS1ML2rmPHUefdrxQESlFYc+LaeTC1MPgm23p6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\RioRadiance.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceLosion.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/RioRadianceLosion#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zek9z2mcsa",
+      "Integrity": "ZYU4Gx+i4/rpe/smsUznSSWUK9Q1MEtbybyzHGMVY1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\RioRadianceLosion.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceOil.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/SolDeJaneiro/RioRadianceOil#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opxghoehtb",
+      "Integrity": "VMCybqY09f3gvIEzfwy9XNm7s42vjlWAm6XqPb2/mDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\SolDeJaneiro\\RioRadianceOil.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSL\\MYSLFysl.png",
@@ -9516,6 +9684,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-A57mATXYVogO+eV7jfGb9QMoJ+pJT1us/2jRmSKbGus="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BeijaFlor.8l7412sn35.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lJe5cLcd242XrEDQ/GgXDrRZfF+v4aZ62mWl1niFAVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8l7412sn35"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/BeijaFlor.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lJe5cLcd242XrEDQ/GgXDrRZfF+v4aZ62mWl1niFAVA="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BeijaFlor.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lJe5cLcd242XrEDQ/GgXDrRZfF+v4aZ62mWl1niFAVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lJe5cLcd242XrEDQ/GgXDrRZfF+v4aZ62mWl1niFAVA="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BomDia.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BomDia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OjPITeRxTriMON2peLGvqy/UwXrdflFvHEygJTaDEC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OjPITeRxTriMON2peLGvqy/UwXrdflFvHEygJTaDEC4="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BomDia.ua48t6f4gs.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BomDia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OjPITeRxTriMON2peLGvqy/UwXrdflFvHEygJTaDEC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua48t6f4gs"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/BomDia.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OjPITeRxTriMON2peLGvqy/UwXrdflFvHEygJTaDEC4="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianBum.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5uLca8tPVIxCIadfeqajR2WjayJRwReybAyZUhd3m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5uLca8tPVIxCIadfeqajR2WjayJRwReybAyZUhd3m0="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianBum.zy282qzvlw.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5uLca8tPVIxCIadfeqajR2WjayJRwReybAyZUhd3m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zy282qzvlw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/BrazilianBum.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5uLca8tPVIxCIadfeqajR2WjayJRwReybAyZUhd3m0="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianBumBum.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBumBum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bKynpnJqWvNVYZYZ3/AIMDPrVKA1W9vPQJUl5h3bH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bKynpnJqWvNVYZYZ3/AIMDPrVKA1W9vPQJUl5h3bH4="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianBumBum.rbnco58ijz.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBumBum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bKynpnJqWvNVYZYZ3/AIMDPrVKA1W9vPQJUl5h3bH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbnco58ijz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/BrazilianBumBum.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bKynpnJqWvNVYZYZ3/AIMDPrVKA1W9vPQJUl5h3bH4="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianCrushCheirosa.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"STksYENfCfzuEGj6X7LqbGs5aL7w5gpql+iSUXCmAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-STksYENfCfzuEGj6X7LqbGs5aL7w5gpql+iSUXCmAgA="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/BrazilianCrushCheirosa.r3fxw3jjjq.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"STksYENfCfzuEGj6X7LqbGs5aL7w5gpql+iSUXCmAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:01:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3fxw3jjjq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/BrazilianCrushCheirosa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-STksYENfCfzuEGj6X7LqbGs5aL7w5gpql+iSUXCmAgA="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadiance.g9ue1zlftd.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadiance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TFLkPS1ML2rmPHUefdrxQESlFYc+LaeTC1MPgm23p6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9ue1zlftd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/RioRadiance.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TFLkPS1ML2rmPHUefdrxQESlFYc+LaeTC1MPgm23p6c="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadiance.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadiance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TFLkPS1ML2rmPHUefdrxQESlFYc+LaeTC1MPgm23p6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TFLkPS1ML2rmPHUefdrxQESlFYc+LaeTC1MPgm23p6c="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadianceLosion.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceLosion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZYU4Gx+i4/rpe/smsUznSSWUK9Q1MEtbybyzHGMVY1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZYU4Gx+i4/rpe/smsUznSSWUK9Q1MEtbybyzHGMVY1o="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadianceLosion.zek9z2mcsa.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceLosion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZYU4Gx+i4/rpe/smsUznSSWUK9Q1MEtbybyzHGMVY1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zek9z2mcsa"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/RioRadianceLosion.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZYU4Gx+i4/rpe/smsUznSSWUK9Q1MEtbybyzHGMVY1o="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadianceOil.opxghoehtb.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceOil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMCybqY09f3gvIEzfwy9XNm7s42vjlWAm6XqPb2/mDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opxghoehtb"
+        },
+        {
+          "Name": "label",
+          "Value": "img/SolDeJaneiro/RioRadianceOil.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMCybqY09f3gvIEzfwy9XNm7s42vjlWAm6XqPb2/mDM="
+        }
+      ]
+    },
+    {
+      "Route": "img/SolDeJaneiro/RioRadianceOil.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceOil.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMCybqY09f3gvIEzfwy9XNm7s42vjlWAm6XqPb2/mDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:02:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMCybqY09f3gvIEzfwy9XNm7s42vjlWAm6XqPb2/mDM="
         }
       ]
     },

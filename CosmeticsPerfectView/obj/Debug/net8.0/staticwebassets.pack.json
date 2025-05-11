@@ -173,6 +173,38 @@
       "PackagePath": "staticwebassets\\img\\Logo\\kerastaseLogo.png"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\BeijaFlor.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BomDia.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\BomDia.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBum.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\BrazilianBum.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianBumBum.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\BrazilianBumBum.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\BrazilianCrushCheirosa.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadiance.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\RioRadiance.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceLosion.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\RioRadianceLosion.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\RioRadianceOil.png",
+      "PackagePath": "staticwebassets\\img\\SolDeJaneiro\\RioRadianceOil.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\YSL\\MYSLFysl.png",
       "PackagePath": "staticwebassets\\img\\YSL\\MYSLFysl.png"
     },
