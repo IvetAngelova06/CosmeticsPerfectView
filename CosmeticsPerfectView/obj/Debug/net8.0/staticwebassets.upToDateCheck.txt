@@ -1,6 +1,14 @@
 wwwroot\css\PageCSS.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\Avene\AveneBody.png
+wwwroot\img\Avene\AveneCleanance.png
+wwwroot\img\Avene\AveneCleananceComedomed.png
+wwwroot\img\Avene\AveneCleansingGel.png
+wwwroot\img\Avene\AveneLipid-ReplenishingBalm.png
+wwwroot\img\Avene\AveneSunMineral.png
+wwwroot\img\Avene\AveneSunResistant.png
+wwwroot\img\Avene\AveneXeraCalm.png
 wwwroot\img\Dior\addictLip.png
 wwwroot\img\Dior\homme.png
 wwwroot\img\Dior\jadore.png

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o/8Lq/Gd0fUsBo02Ab5g5FsKE9iWLmZlHgAxh9oRPl0=",
+  "Hash": "+Fhy1wUcPSyDVyPTZmXRbxdLq+X1MLMu/1Qxi1bElu4=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -1380,6 +1380,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneBody.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneBody#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8u24abyfxg",
+      "Integrity": "oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys+ZHvQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneBody.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleanance.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneCleanance#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47brdnib2y",
+      "Integrity": "cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneCleanance.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleananceComedomed.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneCleananceComedomed#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fq5eof9uub",
+      "Integrity": "h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD+hHwz+Puw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneCleananceComedomed.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleansingGel.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneCleansingGel#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a0bhz9epjr",
+      "Integrity": "Bsf8QrInnk+XbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneCleansingGel.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneLipid-ReplenishingBalm.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneLipid-ReplenishingBalm#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55wm4xl183",
+      "Integrity": "x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW+nbutCTwSmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneLipid-ReplenishingBalm.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunMineral.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneSunMineral#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afhp1xs3bq",
+      "Integrity": "ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneSunMineral.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunResistant.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneSunResistant#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tn393wd3q",
+      "Integrity": "uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneSunResistant.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneXeraCalm.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Avene/AveneXeraCalm#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d7prewc7w0",
+      "Integrity": "WYYXWQEPG1MaZ+d8d7MdkWEYKh8UR630y4VGUUYIN1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avene\\AveneXeraCalm.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Dior\\addictLip.png",
@@ -6068,6 +6236,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneBody.8u24abyfxg.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneBody.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys+ZHvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u24abyfxg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneBody.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys+ZHvQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneBody.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneBody.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys+ZHvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys+ZHvQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleanance.47brdnib2y.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleanance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:02:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47brdnib2y"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneCleanance.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleanance.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleanance.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:02:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleananceComedomed.fq5eof9uub.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleananceComedomed.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD+hHwz+Puw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fq5eof9uub"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneCleananceComedomed.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD+hHwz+Puw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleananceComedomed.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleananceComedomed.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD+hHwz+Puw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD+hHwz+Puw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleansingGel.a0bhz9epjr.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleansingGel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bsf8QrInnk+XbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0bhz9epjr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneCleansingGel.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bsf8QrInnk+XbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneCleansingGel.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleansingGel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bsf8QrInnk+XbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bsf8QrInnk+XbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneLipid-ReplenishingBalm.55wm4xl183.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneLipid-ReplenishingBalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW+nbutCTwSmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55wm4xl183"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneLipid-ReplenishingBalm.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW+nbutCTwSmI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneLipid-ReplenishingBalm.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneLipid-ReplenishingBalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW+nbutCTwSmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW+nbutCTwSmI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneSunMineral.afhp1xs3bq.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunMineral.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afhp1xs3bq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneSunMineral.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneSunMineral.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunMineral.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneSunResistant.2tn393wd3q.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunResistant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tn393wd3q"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneSunResistant.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneSunResistant.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunResistant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneXeraCalm.d7prewc7w0.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneXeraCalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WYYXWQEPG1MaZ+d8d7MdkWEYKh8UR630y4VGUUYIN1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7prewc7w0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Avene/AveneXeraCalm.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WYYXWQEPG1MaZ+d8d7MdkWEYKh8UR630y4VGUUYIN1E="
+        }
+      ]
+    },
+    {
+      "Route": "img/Avene/AveneXeraCalm.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneXeraCalm.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WYYXWQEPG1MaZ+d8d7MdkWEYKh8UR630y4VGUUYIN1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 13:03:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WYYXWQEPG1MaZ+d8d7MdkWEYKh8UR630y4VGUUYIN1E="
         }
       ]
     },

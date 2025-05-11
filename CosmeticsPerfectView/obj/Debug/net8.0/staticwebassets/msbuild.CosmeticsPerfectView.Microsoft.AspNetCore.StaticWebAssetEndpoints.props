@@ -48,6 +48,102 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 21:42:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneBody.8u24abyfxg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneBody.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8u24abyfxg"},{"Name":"integrity","Value":"sha256-oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys\u002BZHvQ="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneBody.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38941"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys\u002BZHvQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneBody.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneBody.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys\u002BZHvQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38941"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oOIwd0S4OOeqCEY2yimsB3Zp7EtVdMKYljzRys\u002BZHvQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleanance.47brdnib2y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleanance.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"47brdnib2y"},{"Name":"integrity","Value":"sha256-cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneCleanance.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40249"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:02:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleanance.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleanance.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40249"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cDo7SSX5K1dpMamJ/Sy1sfuQeErzl4tgJ3y9mDJqS6I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:02:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleananceComedomed.fq5eof9uub.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleananceComedomed.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fq5eof9uub"},{"Name":"integrity","Value":"sha256-h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD\u002BhHwz\u002BPuw="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneCleananceComedomed.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"31878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD\u002BhHwz\u002BPuw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleananceComedomed.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleananceComedomed.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD\u002BhHwz\u002BPuw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"31878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h9iNdcEq1Cg1dKkU5ESmgzsK3kCTTJYGHD\u002BhHwz\u002BPuw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleansingGel.a0bhz9epjr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleansingGel.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a0bhz9epjr"},{"Name":"integrity","Value":"sha256-Bsf8QrInnk\u002BXbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneCleansingGel.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"56668"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bsf8QrInnk\u002BXbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneCleansingGel.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneCleansingGel.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bsf8QrInnk\u002BXbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"56668"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bsf8QrInnk\u002BXbZneu4EwdYceBvBeZkRp4HjWUB0TUDQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneLipid-ReplenishingBalm.55wm4xl183.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneLipid-ReplenishingBalm.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"55wm4xl183"},{"Name":"integrity","Value":"sha256-x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW\u002BnbutCTwSmI="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneLipid-ReplenishingBalm.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30041"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW\u002BnbutCTwSmI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneLipid-ReplenishingBalm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneLipid-ReplenishingBalm.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW\u002BnbutCTwSmI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30041"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022x3srsRl8MMHqE8i8RgJal0Qj6ymDYmwW\u002BnbutCTwSmI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneSunMineral.afhp1xs3bq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneSunMineral.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"afhp1xs3bq"},{"Name":"integrity","Value":"sha256-ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneSunMineral.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49836"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneSunMineral.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneSunMineral.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49836"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ipYRIQeaPpq5LBW24ZHGHuce8ke/Iw8qxej34IL84dA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneSunResistant.2tn393wd3q.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneSunResistant.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2tn393wd3q"},{"Name":"integrity","Value":"sha256-uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneSunResistant.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42168"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneSunResistant.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneSunResistant.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"42168"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uo/wugTgwZPauU9HLHhOWfjOcc6nNMXbz3TNAn9EV4c=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneXeraCalm.d7prewc7w0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneXeraCalm.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d7prewc7w0"},{"Name":"integrity","Value":"sha256-WYYXWQEPG1MaZ\u002Bd8d7MdkWEYKh8UR630y4VGUUYIN1E="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Avene/AveneXeraCalm.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35804"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WYYXWQEPG1MaZ\u002Bd8d7MdkWEYKh8UR630y4VGUUYIN1E=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Avene/AveneXeraCalm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Avene\AveneXeraCalm.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WYYXWQEPG1MaZ\u002Bd8d7MdkWEYKh8UR630y4VGUUYIN1E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35804"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WYYXWQEPG1MaZ\u002Bd8d7MdkWEYKh8UR630y4VGUUYIN1E=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:03:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Dior/addictLip.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Dior\addictLip.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

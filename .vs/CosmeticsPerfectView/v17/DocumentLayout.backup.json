@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\home\\avene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\home\\avene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\home\\ysl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\home\\ysl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,19 +31,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Avene.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Avene.cshtml",
+              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\Avene.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Avene.cshtml",
+              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Home\\Avene.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T13:03:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "YSL.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\YSL.cshtml",
               "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\YSL.cshtml",
               "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\YSL.cshtml",
               "RelativeToolTip": "CosmeticsPerfectView\\Views\\Home\\YSL.cshtml",
-              "ViewState": "AgIAABsAAAAAAADcm0/2vyQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T20:47:37.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T20:47:37.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PageCSS.css",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
               "RelativeDocumentMoniker": "CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
@@ -51,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dior.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Dior.cshtml",
               "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\Dior.cshtml",

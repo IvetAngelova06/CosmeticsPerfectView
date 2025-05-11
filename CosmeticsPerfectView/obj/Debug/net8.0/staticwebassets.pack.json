@@ -17,6 +17,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneBody.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneBody.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleanance.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneCleanance.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleananceComedomed.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneCleananceComedomed.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneCleansingGel.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneCleansingGel.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneLipid-ReplenishingBalm.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneLipid-ReplenishingBalm.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunMineral.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneSunMineral.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneSunResistant.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneSunResistant.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Avene\\AveneXeraCalm.png",
+      "PackagePath": "staticwebassets\\img\\Avene\\AveneXeraCalm.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Dior\\LipGlowOil.png",
       "PackagePath": "staticwebassets\\img\\Dior\\LipGlowOil.png"
     },
