@@ -456,6 +456,102 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o9Jb1folpO018Cdmaei\u002BcaKnfw9S0LzPZKVh58znSY0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"74724"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022o9Jb1folpO018Cdmaei\u002BcaKnfw9S0LzPZKVh58znSY0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 06:10:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/ChronologisteLhuileDeParfum.22w6f86bht.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\ChronologisteLhuileDeParfum.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"22w6f86bht"},{"Name":"integrity","Value":"sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/ChronologisteLhuileDeParfum.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37413"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/ChronologisteLhuileDeParfum.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\ChronologisteLhuileDeParfum.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37413"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/ElixirUltimeLhuileOriginale.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\ElixirUltimeLhuileOriginale.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-10OHV\u002BK6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002210OHV\u002BK6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/ElixirUltimeLhuileOriginale.rn4l1i9q5s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\ElixirUltimeLhuileOriginale.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rn4l1i9q5s"},{"Name":"integrity","Value":"sha256-10OHV\u002BK6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/ElixirUltimeLhuileOriginale.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002210OHV\u002BK6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/londAbsoluLhuileCicagloss.bfid92ybrg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\londAbsoluLhuileCicagloss.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bfid92ybrg"},{"Name":"integrity","Value":"sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/londAbsoluLhuileCicagloss.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37670"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:51:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/londAbsoluLhuileCicagloss.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\londAbsoluLhuileCicagloss.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37670"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:51:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/Première.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\Première.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"73310"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/Première.sguqpjyqwo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\Première.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sguqpjyqwo"},{"Name":"integrity","Value":"sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/Premi\u00E8re.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73310"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 19:52:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreBain.56cvy658i4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreBain.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"56cvy658i4"},{"Name":"integrity","Value":"sha256-oyZDkeBTZD7\u002BYh6AhPQi\u002BdCByDPD2uGBLv/wtvQbipA="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/Premi\u00E8reBain.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44515"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oyZDkeBTZD7\u002BYh6AhPQi\u002BdCByDPD2uGBLv/wtvQbipA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreBain.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreBain.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oyZDkeBTZD7\u002BYh6AhPQi\u002BdCByDPD2uGBLv/wtvQbipA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44515"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oyZDkeBTZD7\u002BYh6AhPQi\u002BdCByDPD2uGBLv/wtvQbipA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreConcentré.2v2f1w0qmn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreConcentré.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2v2f1w0qmn"},{"Name":"integrity","Value":"sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/Premi\u00E8reConcentr\u00E9.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26453"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreConcentré.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreConcentré.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26453"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreFondant.585vay59xd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreFondant.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"585vay59xd"},{"Name":"integrity","Value":"sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/Premi\u00E8reFondant.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41067"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreFondant.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreFondant.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41067"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreMasque.iyqph5h79i.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreMasque.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iyqph5h79i"},{"Name":"integrity","Value":"sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="},{"Name":"label","Value":"_content/CosmeticsPerfectView/img/Kerastase/Premi\u00E8reMasque.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63399"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/Kerastase/PremièreMasque.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Kerastase\PremièreMasque.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"63399"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 20:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CosmeticsPerfectView/img/logo.oekm4wjgrg.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

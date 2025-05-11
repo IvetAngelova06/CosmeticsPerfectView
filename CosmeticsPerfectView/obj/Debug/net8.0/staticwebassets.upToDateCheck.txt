@@ -35,6 +35,14 @@ wwwroot\img\Gallery5\SdjSPF.png
 wwwroot\img\Gallery6\FkKerastase.png
 wwwroot\img\Gallery6\KerastaseOil.png
 wwwroot\img\Gallery6\KerastasePremiere.png
+wwwroot\img\Kerastase\ChronologisteLhuileDeParfum.png
+wwwroot\img\Kerastase\ElixirUltimeLhuileOriginale.png
+wwwroot\img\Kerastase\londAbsoluLhuileCicagloss.png
+wwwroot\img\Kerastase\Première.png
+wwwroot\img\Kerastase\PremièreBain.png
+wwwroot\img\Kerastase\PremièreConcentré.png
+wwwroot\img\Kerastase\PremièreFondant.png
+wwwroot\img\Kerastase\PremièreMasque.png
 wwwroot\img\logo.png
 wwwroot\img\Logo\aveneLogo.png
 wwwroot\img\Logo\diorLogo.png

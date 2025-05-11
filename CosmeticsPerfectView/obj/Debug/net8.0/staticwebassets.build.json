@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KG2pHRcaPf6JB3Xi4WdVuCSLbN9Dg/muMKm2pqXfJn4=",
+  "Hash": "IX0RJtYUfA/Ygoe5mJJJ+cr01z6KcpyQktMScttb0RI=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -2094,6 +2094,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Gallery6\\KerastasePremiere.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/ChronologisteLhuileDeParfum#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "22w6f86bht",
+      "Integrity": "ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ElixirUltimeLhuileOriginale.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/ElixirUltimeLhuileOriginale#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rn4l1i9q5s",
+      "Integrity": "10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\ElixirUltimeLhuileOriginale.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\londAbsoluLhuileCicagloss.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/londAbsoluLhuileCicagloss#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfid92ybrg",
+      "Integrity": "h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\londAbsoluLhuileCicagloss.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\Première.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/Première#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sguqpjyqwo",
+      "Integrity": "RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\Première.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreBain.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/PremièreBain#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "56cvy658i4",
+      "Integrity": "oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\PremièreBain.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreConcentré.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/PremièreConcentré#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2v2f1w0qmn",
+      "Integrity": "Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\PremièreConcentré.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreFondant.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/PremièreFondant#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "585vay59xd",
+      "Integrity": "yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\PremièreFondant.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreMasque.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Kerastase/PremièreMasque#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iyqph5h79i",
+      "Integrity": "ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Kerastase\\PremièreMasque.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\logo.png",
@@ -9192,6 +9360,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-o9Jb1folpO018Cdmaei+caKnfw9S0LzPZKVh58znSY0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ChronologisteLhuileDeParfum.22w6f86bht.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22w6f86bht"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/ChronologisteLhuileDeParfum.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ChronologisteLhuileDeParfum.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ElixirUltimeLhuileOriginale.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ElixirUltimeLhuileOriginale.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ElixirUltimeLhuileOriginale.rn4l1i9q5s.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ElixirUltimeLhuileOriginale.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn4l1i9q5s"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/ElixirUltimeLhuileOriginale.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/londAbsoluLhuileCicagloss.bfid92ybrg.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\londAbsoluLhuileCicagloss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfid92ybrg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/londAbsoluLhuileCicagloss.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/londAbsoluLhuileCicagloss.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\londAbsoluLhuileCicagloss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/Première.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\Première.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/Première.sguqpjyqwo.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\Première.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sguqpjyqwo"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/Première.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreBain.56cvy658i4.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreBain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56cvy658i4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreBain.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreBain.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreBain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreConcentré.2v2f1w0qmn.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreConcentré.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2v2f1w0qmn"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreConcentré.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreConcentré.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreConcentré.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreFondant.585vay59xd.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreFondant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "585vay59xd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreFondant.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreFondant.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreFondant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreMasque.iyqph5h79i.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreMasque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyqph5h79i"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreMasque.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreMasque.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\PremièreMasque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="
         }
       ]
     },

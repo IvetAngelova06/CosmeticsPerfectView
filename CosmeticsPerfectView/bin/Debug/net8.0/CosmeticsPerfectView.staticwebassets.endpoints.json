@@ -5339,6 +5339,662 @@
       ]
     },
     {
+      "Route": "img/Kerastase/ChronologisteLhuileDeParfum.22w6f86bht.png",
+      "AssetFile": "img/Kerastase/ChronologisteLhuileDeParfum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22w6f86bht"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/ChronologisteLhuileDeParfum.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ChronologisteLhuileDeParfum.png",
+      "AssetFile": "img/Kerastase/ChronologisteLhuileDeParfum.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypYmB9umrzZx5Wlkq4QVHc6YT02p7uR8543D2sxdPKQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ElixirUltimeLhuileOriginale.png",
+      "AssetFile": "img/Kerastase/ElixirUltimeLhuileOriginale.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/ElixirUltimeLhuileOriginale.rn4l1i9q5s.png",
+      "AssetFile": "img/Kerastase/ElixirUltimeLhuileOriginale.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn4l1i9q5s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10OHV+K6OolifdjVqe2ogTQFVidHzDtxrXQ/JUHhV/A="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/ElixirUltimeLhuileOriginale.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/Première.png",
+      "AssetFile": "img/Kerastase/Première.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/Première.sguqpjyqwo.png",
+      "AssetFile": "img/Kerastase/Première.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:52:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sguqpjyqwo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RF7v0pta0q6w16Fr7IDf79wYdCcmLMxr5x8lwkfUWeU="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/Première.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreBain.56cvy658i4.png",
+      "AssetFile": "img/Kerastase/PremièreBain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56cvy658i4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreBain.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreBain.png",
+      "AssetFile": "img/Kerastase/PremièreBain.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oyZDkeBTZD7+Yh6AhPQi+dCByDPD2uGBLv/wtvQbipA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreConcentré.2v2f1w0qmn.png",
+      "AssetFile": "img/Kerastase/PremièreConcentré.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2v2f1w0qmn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreConcentré.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreConcentré.png",
+      "AssetFile": "img/Kerastase/PremièreConcentré.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pl3NM4kG/903QEavZcXJ8tc7EJGKcCrw1rkuOReK/gM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreFondant.585vay59xd.png",
+      "AssetFile": "img/Kerastase/PremièreFondant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "585vay59xd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreFondant.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreFondant.png",
+      "AssetFile": "img/Kerastase/PremièreFondant.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzH/CgAYn1mVuAoK7USySruUTHnbWy4xTNVTKfdcXrk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreMasque.iyqph5h79i.png",
+      "AssetFile": "img/Kerastase/PremièreMasque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyqph5h79i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/PremièreMasque.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/PremièreMasque.png",
+      "AssetFile": "img/Kerastase/PremièreMasque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 20:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugmgsfmfZlpKDCKdCr/NGJEEhHkAOvJYFybHfpGZAVM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/londAbsoluLhuileCicagloss.bfid92ybrg.png",
+      "AssetFile": "img/Kerastase/londAbsoluLhuileCicagloss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:51:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfid92ybrg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Kerastase/londAbsoluLhuileCicagloss.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Kerastase/londAbsoluLhuileCicagloss.png",
+      "AssetFile": "img/Kerastase/londAbsoluLhuileCicagloss.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 19:51:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2/dh6DBuQJmyiwesLKVLF58tY5b2w5BU2PCFphfViY="
+        }
+      ]
+    },
+    {
       "Route": "img/Logo/SolDeJaneiro.15zdiqq584.png",
       "AssetFile": "img/Logo/SolDeJaneiro.png",
       "Selectors": [],
