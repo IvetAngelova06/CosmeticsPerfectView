@@ -1,9 +1,32 @@
 ﻿@{
 	ViewData["Title"] = "Начало";
 }
+<style>
+	.formReason {
+		font-family: 'Vollkorn', serif;
+	}
+	h2 {
+		margin-top: 60px;
+	}
 
-<div class="text-center">
-</div>
+	h3 {
+		margin-top: 100px;
+		text-align: center;
+	}
+	h4{
+		font-weight: bold;
+	}
+
+	.reason {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	p{
+		margin-right:70px;
+	}
+</style>
 
 <div class="gallery">
 	<div class="slides">
@@ -20,20 +43,39 @@
 	<a asp-controller="Home" asp-action="Dior">
 		<img src="/img/Logo/diorLogo.png" alt="Dior Logo" />
 	</a>
-	<a asp-controller ="Home" asp-action="YSL">
+	<a asp-controller="Home" asp-action="YSL">
 		<img src="/img/Logo/YSLlogo.png" alt="Yves Saint Laurent Logo" />
 	</a>
-	<a asp-controller ="Home" asp-action="Avene">
+	<a asp-controller="Home" asp-action="Avene">
 		<img src="/img/Logo/aveneLogo.png" alt="Avene Logo" />
 	</a>
 	<a asp-controller="Home" asp-action="SDJ">
 		<img src="/img/Logo/SolDeJaneiro.png" alt="Sol De Janeiro Logo" />
 	</a>
-	<a asp-controller ="Home" asp-action="Kerastase">
+	<a asp-controller="Home" asp-action="Kerastase">
 		<img src="/img/Logo/kerastaseLogo.png" alt="Kerastase Logo" />
 	</a>
 </div>
 
-<div class="bestSellers">
-
+<div class="formReason">
+	<h3>Причини, поради които да изберете Перфектен изглед</h3>
+	<h4>90 дни за връщане</h4>
+	<div class="reason">
+		<p>
+			Не сте уцелили подаръка или по погрешка сте натиснали бутона на мишката. Или продуктът просто изобщо не ви подхожда и сега се чудите какво да правите с него? Ние знаем – изпратете ни стоката обратно или я върнете в магазина, а ние ще ви възстановим пълната ѝ цена. Правите всичко това удобно от своя потребителски профил My Notino. Ако нямате такъв, сега е времето да го създадете и така да улесните пазаруването си :-)
+			Повече информация от нас ще получите на имейл info@notino.bg или на телефон +359 24 928311. Тъкмо ще ви посъветваме и кои са най-добрите подаръци, например.
+		</p>
+		<img src="/img/Reason/return.png" height="320" width="500" />
+	</div>
+</div>
+<hr />
+<div class="formReason">
+	<h4>Безплатна доставка за стотици продукти</h4>
+	<div class="reason">
+		<p>
+			Знаете ли, че имаме много продукти с безплатна доставка? Вижте сами. С радост ще доставим безплатно поръчките ви над 2 лв., в който и да е от нашите магазини. А ако използвате някоя от куриерските фирми, с които работим, сумите за доставка започват от 3,45 лв.
+			Съвет! Ако не искате да плащате за доставка, в края на пазаруването разгледайте добре категорията с безплатна доставка, със сигурност нещо от нея ще попадне в количката ви и няма да платите и лев за доставката.
+		</p>
+		<img src="/img/Reason/delivery.png" height="320" width="500" />
+	</div>
 </div>

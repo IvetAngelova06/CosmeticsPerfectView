@@ -153,6 +153,18 @@
       "PackagePath": "staticwebassets\\img\\Gallery6\\KerastasePremiere.png"
     },
     {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\basketShoppingSimple.png",
+      "PackagePath": "staticwebassets\\img\\Icons\\basketShoppingSimple.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\shop.png",
+      "PackagePath": "staticwebassets\\img\\Icons\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\user.png",
+      "PackagePath": "staticwebassets\\img\\Icons\\user.png"
+    },
+    {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
       "PackagePath": "staticwebassets\\img\\Kerastase\\ChronologisteLhuileDeParfum.png"
     },
@@ -203,6 +215,14 @@
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Logo\\kerastaseLogo.png",
       "PackagePath": "staticwebassets\\img\\Logo\\kerastaseLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\delivery.png",
+      "PackagePath": "staticwebassets\\img\\Reason\\delivery.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\return.png",
+      "PackagePath": "staticwebassets\\img\\Reason\\return.png"
     },
     {
       "Id": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",

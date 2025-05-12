@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IX0RJtYUfA/Ygoe5mJJJ+cr01z6KcpyQktMScttb0RI=",
+  "Hash": "OHbMtxcpX2Rfm0Q/skFQbKdTWz2HDb+QrEfgH9R5oSQ=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hehii4gei3",
-      "Integrity": "Z3UUpYBOViOG1JSWx/WW2VSA69gQPE5vwxO6QiMvbQM=",
+      "Fingerprint": "9bciucnkq7",
+      "Integrity": "1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\PageCSS.css"
@@ -2096,6 +2096,69 @@
       "OriginalItemSpec": "wwwroot\\img\\Gallery6\\KerastasePremiere.png"
     },
     {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\basketShoppingSimple.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Icons/basketShoppingSimple#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t37z9hpcbs",
+      "Integrity": "R9Q8QO6WK0CBdqee3FSniTZMdTtLjrjPeVrvl2wYrwI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Icons\\basketShoppingSimple.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\shop.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Icons/shop#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b4ck7boq1x",
+      "Integrity": "pRJYHEBeuHDg1Otwhq/VxXXYUoCMC21ycs8bS57D6cc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Icons\\shop.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\user.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Icons/user#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a4wn0w2jwz",
+      "Integrity": "pp3xqBo++cXDtnhF9BWPn/DutqnUCktJqKgcbLCnSPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Icons\\user.png"
+    },
+    {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
       "SourceId": "CosmeticsPerfectView",
       "SourceType": "Discovered",
@@ -2388,6 +2451,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logo\\YSLlogo.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\delivery.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Reason/delivery#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gfgdoiugaw",
+      "Integrity": "lOutqYbBNzSPNBBi3e2sK9D9TUWWu1GBqT04PrkqLyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Reason\\delivery.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\return.png",
+      "SourceId": "CosmeticsPerfectView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\",
+      "BasePath": "_content/CosmeticsPerfectView",
+      "RelativePath": "img/Reason/return#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hk6atk9iaw",
+      "Integrity": "P6P69zPlsuy7zZEHameMaxWNaUZBVCI+JU/PbTo4sh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Reason\\return.png"
     },
     {
       "Identity": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\SolDeJaneiro\\BeijaFlor.png",
@@ -4110,6 +4215,51 @@
       ]
     },
     {
+      "Route": "css/PageCSS.9bciucnkq7.css",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 10:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9bciucnkq7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/PageCSS.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk="
+        }
+      ]
+    },
+    {
       "Route": "css/PageCSS.css",
       "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
       "Selectors": [],
@@ -4120,7 +4270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2328"
+          "Value": "2298"
         },
         {
           "Name": "Content-Type",
@@ -4128,11 +4278,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z3UUpYBOViOG1JSWx/WW2VSA69gQPE5vwxO6QiMvbQM=\""
+          "Value": "\"1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 10:18:44 GMT"
+          "Value": "Mon, 12 May 2025 10:51:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4142,52 +4292,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z3UUpYBOViOG1JSWx/WW2VSA69gQPE5vwxO6QiMvbQM="
-        }
-      ]
-    },
-    {
-      "Route": "css/PageCSS.hehii4gei3.css",
-      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2328"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z3UUpYBOViOG1JSWx/WW2VSA69gQPE5vwxO6QiMvbQM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 10:18:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hehii4gei3"
-        },
-        {
-          "Name": "label",
-          "Value": "css/PageCSS.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z3UUpYBOViOG1JSWx/WW2VSA69gQPE5vwxO6QiMvbQM="
+          "Value": "sha256-1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk="
         }
       ]
     },
@@ -9364,6 +9469,252 @@
       ]
     },
     {
+      "Route": "img/Icons/basketShoppingSimple.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\basketShoppingSimple.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9Q8QO6WK0CBdqee3FSniTZMdTtLjrjPeVrvl2wYrwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:20:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9Q8QO6WK0CBdqee3FSniTZMdTtLjrjPeVrvl2wYrwI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Icons/basketShoppingSimple.t37z9hpcbs.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\basketShoppingSimple.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9Q8QO6WK0CBdqee3FSniTZMdTtLjrjPeVrvl2wYrwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:20:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t37z9hpcbs"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Icons/basketShoppingSimple.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9Q8QO6WK0CBdqee3FSniTZMdTtLjrjPeVrvl2wYrwI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Icons/shop.b4ck7boq1x.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\shop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pRJYHEBeuHDg1Otwhq/VxXXYUoCMC21ycs8bS57D6cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:16:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b4ck7boq1x"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Icons/shop.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRJYHEBeuHDg1Otwhq/VxXXYUoCMC21ycs8bS57D6cc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Icons/shop.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\shop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pRJYHEBeuHDg1Otwhq/VxXXYUoCMC21ycs8bS57D6cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:16:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRJYHEBeuHDg1Otwhq/VxXXYUoCMC21ycs8bS57D6cc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Icons/user.a4wn0w2jwz.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pp3xqBo++cXDtnhF9BWPn/DutqnUCktJqKgcbLCnSPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:15:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a4wn0w2jwz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Icons/user.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pp3xqBo++cXDtnhF9BWPn/DutqnUCktJqKgcbLCnSPM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Icons/user.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Icons\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pp3xqBo++cXDtnhF9BWPn/DutqnUCktJqKgcbLCnSPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 15:15:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pp3xqBo++cXDtnhF9BWPn/DutqnUCktJqKgcbLCnSPM="
+        }
+      ]
+    },
+    {
       "Route": "img/Kerastase/ChronologisteLhuileDeParfum.22w6f86bht.png",
       "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Kerastase\\ChronologisteLhuileDeParfum.png",
       "Selectors": [],
@@ -10508,6 +10859,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-A57mATXYVogO+eV7jfGb9QMoJ+pJT1us/2jRmSKbGus="
+        }
+      ]
+    },
+    {
+      "Route": "img/Reason/delivery.gfgdoiugaw.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOutqYbBNzSPNBBi3e2sK9D9TUWWu1GBqT04PrkqLyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 10:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gfgdoiugaw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Reason/delivery.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOutqYbBNzSPNBBi3e2sK9D9TUWWu1GBqT04PrkqLyM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Reason/delivery.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOutqYbBNzSPNBBi3e2sK9D9TUWWu1GBqT04PrkqLyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 10:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOutqYbBNzSPNBBi3e2sK9D9TUWWu1GBqT04PrkqLyM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Reason/return.hk6atk9iaw.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\return.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6P69zPlsuy7zZEHameMaxWNaUZBVCI+JU/PbTo4sh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 10:15:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hk6atk9iaw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Reason/return.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6P69zPlsuy7zZEHameMaxWNaUZBVCI+JU/PbTo4sh8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Reason/return.png",
+      "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\img\\Reason\\return.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6P69zPlsuy7zZEHameMaxWNaUZBVCI+JU/PbTo4sh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 10:15:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6P69zPlsuy7zZEHameMaxWNaUZBVCI+JU/PbTo4sh8="
         }
       ]
     },
