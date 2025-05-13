@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CosmeticsPerfectView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02d652d29e35145fc6f06219a69efe22c2c1c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f1d3a95de67e82cea3f42137d8853e2adb21048")]
 [assembly: System.Reflection.AssemblyProductAttribute("CosmeticsPerfectView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CosmeticsPerfectView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,172 +1,38 @@
 ﻿@model CosmeticsPerfectView.Data.Product
 
 @{
-    ViewData["Title"] = "Details";
+	ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1>@Html.DisplayFor(model => model.Categories.Name)</h1>
 
 
-<div class="container">
-    <div class="img">
-        <img src="Image/Palnej/VersaceErosFlame.png" />
-    </div>
-    <div class="text">
-        <h3>Versace</h3>
-        <p>Eros Flame</p>
-        <p>подаръчен комплект за мъже</p>
-        <p>
-            парфюмна вода 100 мл. + парфюмна вода спрей в малка опаковка 10 мл. +
-            козметична чанта 1 бр.
-        </p>
-        <p> @Html.DisplayFor(model => model.Price) лв.</p>
-        <img src="Image/ZvezdPeti.png" height="34" width="118" />
-    </div>
+<div class="box">
+	<div class="img">
+		<img width="150" src="@Html.DisplayFor(model => model.URLimage)" />
+	</div>
+	<div class="text">
+		<h3> @Html.DisplayFor(model => model.Name)</h3>
+		<p> @Html.DisplayFor(model => model.ProductTypes.Name)</p>
+		<p> @Html.DisplayFor(model => model.Price) лв.</p>
+
+	</div>
 </div>
-<br />
-<br />
-<br />
 <div class="opisanie">
-    <div class="tab">
-        <h3>Описание Versace Eros Flame</h3>
-        <table>
-            <tr>
-                <td class="zaglavie">Вид аромат</td>
-                <td class="palnej">Ароматни, Дървесни</td>
-            </tr>
-            <tr>
-                <td class="zaglavie">Тип комплекти	</td>
-                <td class="palnej">Подаръчен комплект</td>
-            </tr>
-        </table>
-        <br />
-    </div>
-    <div class="harakteristika">
-        <p>
-            Търсите идеалния подарък за любимия мъж, брат си или баща си?
-            Мъжкият парфюмен комплект Versace Eros Flame със сигурност ще зарадва всеки представител на силния пол.
-        </p>
-        <h3>Характеристики:</h3>
-        <p>&#10749;&nbsp;Изключително подходящ за подарък</p>
-        <p>&#10749;&nbsp;Ще зарадва всеки мъж</p>
-        <h3>Комплектът съдържа:</h3>
-        <p>&#10749;&nbsp;Парфюмна вода 100 мл.</p>
-        <p>&#10749;&nbsp;Парфюмна вода спрей в малка опаковка 10 мл.</p>
-        <p>&#10749;&nbsp;Козметична чанта 1 бр.</p>
-    </div>
+	<div class="tab">
+		<h3>Описание @Html.DisplayFor(model => model.Name)</h3>
+	</div>
+	<div class="harakteristika">
+		<p>
+			@Html.DisplayFor(model => model.Description)
+		</p>
+	</div>
+</div>
+<div>
 
+	<a asp-action="Edit" asp-route-id="@Model?.Id">Редактирай</a> |
 </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@if (User.IsInRole("Admin"))
-{
-    <div>
-        <h4>Product</h4>
-        <hr />
-        <dl class="row">
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Name)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Name)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Categories)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Categories.Name)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.ProductTypes)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.ProductTypes.Name)
-            </dd>
-            <dt class="col-sm-2">
-                @*  @Html.DisplayNameFor(model => model.URLimage) *@
-
-            </dt>
-            <dd class="col-sm-10">
-                <img width="500" src="@Html.DisplayFor(model => model.URLimage)" />
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Price)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Price)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.PromoPercent)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.PromoPercent)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Description)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Description)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.DateRegister)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.DateRegister)
-            </dd>
-        </dl>
-    </div>
-        <div>
-
-            <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-            <a asp-action="Index">Back to List</a>
-        </div>
-    
-   
-}
 

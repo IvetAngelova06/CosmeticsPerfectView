@@ -105,7 +105,7 @@ h1 {
         text-decoration: none;
     }
 
-.container {
+.box {
     display: flex;
     justify-content: space-around;
 }

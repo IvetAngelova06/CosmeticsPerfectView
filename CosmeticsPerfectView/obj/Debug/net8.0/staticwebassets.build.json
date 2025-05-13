@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OHbMtxcpX2Rfm0Q/skFQbKdTWz2HDb+QrEfgH9R5oSQ=",
+  "Hash": "4E6NAIYad1ZPFByG0PgbQk2b2Ls//+eCXkd5+VZpGeY=",
   "Source": "CosmeticsPerfectView",
   "BasePath": "_content/CosmeticsPerfectView",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9bciucnkq7",
-      "Integrity": "1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=",
+      "Fingerprint": "5x5vci3qbv",
+      "Integrity": "RwxQzf9kNlDnI7EkpRUao3p85ii34kLoAx63BsxPBao=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\PageCSS.css"
@@ -4215,7 +4215,7 @@
       ]
     },
     {
-      "Route": "css/PageCSS.9bciucnkq7.css",
+      "Route": "css/PageCSS.5x5vci3qbv.css",
       "AssetFile": "C:\\Users\\pc\\Documents\\ДЗИ\\ДЗИ Практика\\CosmeticsPerfectView\\CosmeticsPerfectView\\wwwroot\\css\\PageCSS.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4225,7 +4225,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2298"
+          "Value": "2292"
         },
         {
           "Name": "Content-Type",
@@ -4233,11 +4233,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=\""
+          "Value": "\"RwxQzf9kNlDnI7EkpRUao3p85ii34kLoAx63BsxPBao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 10:51:04 GMT"
+          "Value": "Tue, 13 May 2025 06:16:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4247,7 +4247,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9bciucnkq7"
+          "Value": "5x5vci3qbv"
         },
         {
           "Name": "label",
@@ -4255,7 +4255,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk="
+          "Value": "sha256-RwxQzf9kNlDnI7EkpRUao3p85ii34kLoAx63BsxPBao="
         }
       ]
     },
@@ -4270,7 +4270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2298"
+          "Value": "2292"
         },
         {
           "Name": "Content-Type",
@@ -4278,11 +4278,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk=\""
+          "Value": "\"RwxQzf9kNlDnI7EkpRUao3p85ii34kLoAx63BsxPBao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 10:51:04 GMT"
+          "Value": "Tue, 13 May 2025 06:16:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4292,7 +4292,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1QwLNPcA9U5swsdUg/n7EET7OzNEHThV1k+7/ve6Rtk="
+          "Value": "sha256-RwxQzf9kNlDnI7EkpRUao3p85ii34kLoAx63BsxPBao="
         }
       ]
     },

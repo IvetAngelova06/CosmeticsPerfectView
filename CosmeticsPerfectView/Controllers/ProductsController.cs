@@ -18,25 +18,50 @@ namespace CosmeticsPerfectView.Controllers
         {
             _context = context;
         }
+        //public IActionResult Discounted()
+        //{
+        //    var discountedProducts = _context.Products
+        //        .Where(p => p.PromoPercent > 0)
+        //        .ToList();
+
+        //    return View(discountedProducts);
+        //}
 
         // GET: Products
         public async Task<IActionResult> Index(string categ)
         {
-            if (categ == null)
+            //if (categ == null)
+            //{
+            //    var applicationDbContext = _context.Products
+            //    .Include(p => p.Categories)
+            //    .Include(p => p.ProductTypes);
+            //    return View(await applicationDbContext.ToListAsync());
+            //}
+            //else
+            //{
+            //    var applicationDbContext = _context.Products
+            //    .Include(p => p.Categories)
+            //    .Include(p => p.ProductTypes)
+            //    .Where(x => x.Categories.Name == categ);
+            //    return View(await applicationDbContext.ToListAsync());
+            //}
+
+            IQueryable<Product> applicationDbContext = _context.Products
+         .Include(p => p.Categories)
+         .Include(p => p.ProductTypes);
+
+            // Ако няма избрана категория (клик на "Промоции"), показваме само намалените продукти
+            if (string.IsNullOrEmpty(categ))
             {
-                var applicationDbContext = _context.Products
-                .Include(p => p.Categories)
-                .Include(p => p.ProductTypes);
-                return View(await applicationDbContext.ToListAsync());
+                applicationDbContext = applicationDbContext.Where(p => p.PromoPercent > 0);
             }
             else
             {
-                var applicationDbContext = _context.Products
-                .Include(p => p.Categories)
-                .Include(p => p.ProductTypes)
-                .Where(x => x.Categories.Name == categ);
-                return View(await applicationDbContext.ToListAsync());
+                // Ако има категория, показваме всички продукти в тази категория (независимо дали са намалени)
+                applicationDbContext = applicationDbContext.Where(x => x.Categories.Name == categ);
             }
+
+            return View(await applicationDbContext.ToListAsync());
 
         }
 
@@ -110,7 +135,7 @@ namespace CosmeticsPerfectView.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description,DateRegister")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,CategoriesId,ProductTypeId,URLimage,Price,PromoPercent,Description,DateRegister")] Product product)
         {
             if (id != product.Id)
             {

@@ -30,9 +30,13 @@
 			<th>
 				@Html.DisplayNameFor(model => model.Price)
 			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.PromoPercent)
-			</th>
+			<!-- Показване на колоната за промоция само ако има стойност PromoPercent > 0 за поне един продукт -->
+			@if (Model.Any(p => p.PromoPercent > 0))
+			{
+				<th>
+					@Html.DisplayNameFor(model => model.PromoPercent)
+				</th>
+			}
 			<th>
 				@Html.DisplayNameFor(model => model.Description)
 			</th>
@@ -64,9 +68,13 @@
 				<td>
 					@Html.DisplayFor(modelItem => item.Price)
 				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.PromoPercent)
-				</td>
+				<!-- Показване на стойността на PromoPercent само ако е по-голяма от 0 -->
+				@if (item.PromoPercent > 0)
+				{
+					<td>
+						@Html.DisplayFor(modelItem => item.PromoPercent)
+					</td>
+				}
 				<td>
 					@Html.DisplayFor(modelItem => item.Description)
 				</td>
@@ -77,11 +85,11 @@
 					</td>
 				}
 				<td>
-					<a asp-action="Details" asp-route-id="@item.Id">Details</a>
+					<a asp-action="Details" asp-route-id="@item.Id">Детайли</a>
 					@if (User.IsInRole("Admin"))
 					{
-						<a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-						<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+						<a asp-action="Edit" asp-route-id="@item.Id">Редактиране</a>
+						<a asp-action="Delete" asp-route-id="@item.Id">Изтриване</a>
 					}
 
 				</td>
