@@ -29,8 +29,10 @@
 	</div>
 </div>
 <div>
-
-	<a asp-action="Edit" asp-route-id="@Model?.Id">Редактирай</a> |
+	@if (User.IsInRole("Admin"))
+	{
+		<a asp-action="Edit" asp-route-id="@Model?.Id">Редактирай</a> 
+	}
 </div>
 
 
