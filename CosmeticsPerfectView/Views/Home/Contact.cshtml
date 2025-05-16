@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+
+
+<div class="content-scroll">
+    <h1>Контакти</h1>
+    <hr class="small-darker-line" />
+    <div class="contacts">
+        <div class="info-contact">
+            <p>
+                Добре дошли в Cosmetics Perfect View
+                <br />
+                Тук можете да намерите разнообразие от висококачествена козметика и парфюми.
+            </p>
+            <p>Ако имате въпроси, не се колебайте да се свържете с нас:</p>
+            <ul>
+                <li><strong>Имейл:</strong> info@CosmeticsPerfectView</li>
+                <li><strong>Телефон:</strong> +359 24 928311</li>
+                <li><strong>Адрес:</strong> гр. Карлово, кв. Сушица, ул. 5-та 3</li>
+            </ul>
+        </div>
+        <div class="comment-form">
+            <h2>Добавяне на коментар</h2>
+            <form action="#" method="post">
+                <div class="form-group">
+                    <label for="name">Име:</label>
+                    <input type="text" id="name" name="name" placeholder="Вашето име" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Имейл:</label>
+                    <input type="email" id="email" name="email" placeholder="Вашият имейл" required>
+                </div>
+                <div class="form-group">
+                    <label for="comment">Коментар:</label>
+                    <textarea id="comment" name="comment" rows="5" placeholder="Вашият коментар" required></textarea>
+                </div>
+                <button type="submit">Изпрати</button>
+            </form>
+        </div>
+    </div>
+</div>
+
