@@ -29,6 +29,9 @@
 		</p>
 	</div>
 </div>
+<form asp-action="AddToCart" asp-route-id="@Model.Id" method="post">
+	<button type="submit" class="btn btn-success">Добави в кошницата</button>
+</form>
 <div>
 	@if (User.IsInRole("Admin"))
 	{

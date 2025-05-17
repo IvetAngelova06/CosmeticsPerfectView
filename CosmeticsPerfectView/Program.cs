@@ -24,6 +24,10 @@ namespace CosmeticsPerfectView
 
             builder.Services.AddControllers(x=>x.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes=true);
 
+            builder.Services.AddSession();
+
+            builder.Services.AddHttpContextAccessor();
+
             var app = builder.Build();
             app.PrepareDataBase().Wait();
 
@@ -43,6 +47,8 @@ namespace CosmeticsPerfectView
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseSession();
 
             app.UseAuthorization();
 

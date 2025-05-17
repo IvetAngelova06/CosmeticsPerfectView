@@ -14,6 +14,15 @@ namespace CosmeticsPerfectView.Controllers
     {
         private readonly ApplicationDbContext _context;
 
+        public IActionResult AddToCart(int id)
+        {
+            List<int> cart = HttpContext.Session.Get<List<int>>("Cart") ?? new List<int>();
+            if (!cart.Contains(id))
+                cart.Add(id);
+            HttpContext.Session.Set("Cart", cart);
+            return RedirectToAction("Cart", "Home");
+        }
+
         public ProductsController(ApplicationDbContext context)
         {
             _context = context;
