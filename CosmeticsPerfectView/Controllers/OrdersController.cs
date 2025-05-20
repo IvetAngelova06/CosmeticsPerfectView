@@ -66,8 +66,24 @@ namespace CosmeticsPerfectView.Controllers
         // GET: Orders/Create
         public IActionResult Create()
         {
-            ViewData["ProductsId"] = new SelectList(_context.Products, "Id", "Name");
-            return View();
+            var cartIds = HttpContext.Session.Get<List<int>>("Cart") ?? new List<int>();
+
+            if (!cartIds.Any())
+            {
+                TempData["Message"] = "Количката е празна.";
+                return RedirectToAction("Cart", "Home");
+            }
+
+            var products = _context.Products
+                .Where(p => cartIds.Contains(p.Id))
+                .ToList();
+
+            // Тук можеш да добавиш логика за записване на поръчката в база
+
+            HttpContext.Session.Remove("Cart"); // Изчистваме количката
+
+            return View("Confirmation", products); // показваме поръчката
+        
         }
 
         // POST: Orders/Create
@@ -181,6 +197,36 @@ namespace CosmeticsPerfectView.Controllers
         private bool OrderExists(int id)
         {
             return _context.Orders.Any(e => e.Id == id);
+        }
+        public async Task<IActionResult> ConfirmOrder()
+        {
+            var cartIds = HttpContext.Session.Get<List<int>>("Cart") ?? new List<int>();
+
+            if (!cartIds.Any())
+            {
+                TempData["Message"] = "Количката е празна.";
+                return RedirectToAction("Cart", "Home");
+            }
+
+            var userId = _userManager.GetUserId(User);
+
+            foreach (var productId in cartIds)
+            {
+                var order = new Order
+                {
+                    ProductsId = productId,
+                    UserId = userId,
+                    OrderQuantity = 1,
+                    Description = "Поръчано от количката"
+                };
+
+                _context.Orders.Add(order);
+            }
+
+            await _context.SaveChangesAsync();
+            HttpContext.Session.Remove("Cart");
+
+            return RedirectToAction("Index");
         }
     }
 }

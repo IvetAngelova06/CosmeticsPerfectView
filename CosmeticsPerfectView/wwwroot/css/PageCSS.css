@@ -105,20 +105,20 @@ h1 {
         text-decoration: none;
     }
 
-.box {
+/*.box {
     display: flex;
     justify-content: space-around;
-}
+}*/
 
 .text {
     align-content: center;
     margin-left: 40px;
 }
 
-.opisanie {
+/*.opisanie {
     display: flex;
     justify-content: space-around;
-}
+}*/
 
 .tab {
     margin-left: 20px;

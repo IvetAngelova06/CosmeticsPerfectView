@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\home\\begin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\home\\begin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|c:\\users\\pc\\documents\\\u0434\u0437\u0438\\\u0434\u0437\u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\cosmeticsperfectview\\cosmeticsperfectview\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E4DB567-F712-4FC4-940C-2C966BA54B93}|CosmeticsPerfectView\\CosmeticsPerfectView.csproj|solutionrelative:cosmeticsperfectview\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAgJPovwYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:42:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Begin.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Begin.cshtml",
+              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\Begin.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Begin.cshtml",
+              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Home\\Begin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T07:57:17.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Products\\Details.cshtml",
               "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "CosmeticsPerfectView\\Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T20:03:32.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Program.cs",
-              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Program.cs",
-              "RelativeToolTip": "CosmeticsPerfectView\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:04:44.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Cart.cshtml",
-              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Views\\Home\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Views\\Home\\Cart.cshtml",
-              "RelativeToolTip": "CosmeticsPerfectView\\Views\\Home\\Cart.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T18:44:09.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CosmeticsPerfectView\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CosmeticsPerfectView\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:43:40.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "CosmeticsPerfectView\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\\u0414\u0417\u0418\\\u0414\u0417\u0418 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CosmeticsPerfectView\\CosmeticsPerfectView\\SessionExtensions.cs",
-              "RelativeToolTip": "CosmeticsPerfectView\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:44:32.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T20:03:32.696Z"
             }
           ]
         }

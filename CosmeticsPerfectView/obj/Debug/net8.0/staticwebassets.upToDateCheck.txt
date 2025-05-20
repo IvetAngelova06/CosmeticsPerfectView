@@ -9,6 +9,7 @@ wwwroot\img\Avene\AveneLipid-ReplenishingBalm.png
 wwwroot\img\Avene\AveneSunMineral.png
 wwwroot\img\Avene\AveneSunResistant.png
 wwwroot\img\Avene\AveneXeraCalm.png
+wwwroot\img\CosmeticsPerfectView.png
 wwwroot\img\Dior\addictLip.png
 wwwroot\img\Dior\homme.png
 wwwroot\img\Dior\jadore.png
@@ -35,7 +36,9 @@ wwwroot\img\Gallery5\SdjSPF.png
 wwwroot\img\Gallery6\FkKerastase.png
 wwwroot\img\Gallery6\KerastaseOil.png
 wwwroot\img\Gallery6\KerastasePremiere.png
+wwwroot\img\Icons\basketShoppingSimple.png
 wwwroot\img\Icons\file-user.png
+wwwroot\img\Icons\map.png
 wwwroot\img\Icons\user-logout.png
 wwwroot\img\Icons\user.png
 wwwroot\img\Kerastase\ChronologisteLhuileDeParfum.png
@@ -52,6 +55,10 @@ wwwroot\img\Logo\diorLogo.png
 wwwroot\img\Logo\kerastaseLogo.png
 wwwroot\img\Logo\SolDeJaneiro.png
 wwwroot\img\Logo\YSLlogo.png
+wwwroot\img\New\FaBOWlous.png
+wwwroot\img\New\KertyolP.S.O.png
+wwwroot\img\New\SemiDiLinoStyle&Care.png
+wwwroot\img\New\Teriaq.png
 wwwroot\img\Reason\delivery.png
 wwwroot\img\Reason\products.png
 wwwroot\img\Reason\return.png
@@ -63,6 +70,10 @@ wwwroot\img\SolDeJaneiro\BrazilianCrushCheirosa.png
 wwwroot\img\SolDeJaneiro\RioRadiance.png
 wwwroot\img\SolDeJaneiro\RioRadianceLosion.png
 wwwroot\img\SolDeJaneiro\RioRadianceOil.png
+wwwroot\img\Trending\BahamaMamaTravelSize.png
+wwwroot\img\Trending\DoubleWear.png
+wwwroot\img\Trending\LockedKissInk24HR.png
+wwwroot\img\Trending\TheFaceGluePrimer.png
 wwwroot\img\YSL\MYSLFysl.png
 wwwroot\img\YSL\YSLblacOpium.png
 wwwroot\img\YSL\YslBlushBold.png
