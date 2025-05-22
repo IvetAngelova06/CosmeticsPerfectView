@@ -1,41 +1,118 @@
 ﻿@model IEnumerable<CosmeticsPerfectView.Data.ProductType>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Видове продукти";
 }
 
-<h1>Index</h1>
+<main class="list-page">
+    <header class="header">
+        <h2>Видове продукти</h2>
+        <a asp-action="Create" class="btn primary-btn">+ Нов запис</a>
+    </header>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <table class="custom-table">
+        <thead>
+            <tr>
+                <th>Име</th>
+                <th>Описание</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td class="actions">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn small-btn">Редакция</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn small-btn">Детайли</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn small-btn danger-btn">Изтрий</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>
+<style>
+    .list-page {
+        max-width: 900px;
+        margin: 2rem auto;
+        padding: 1rem;
+        font-family: sans-serif;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+    }
+
+    .custom-table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fff;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+        .custom-table thead {
+            background-color: #f0f0f0;
+        }
+
+        .custom-table th,
+        .custom-table td {
+            padding: 0.8rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .custom-table tr:hover {
+            background-color: #f9f9f9;
+        }
+
+    .actions {
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .btn {
+        padding: 0.4rem 0.8rem;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.95rem;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.2s ease-in-out;
+    }
+
+    .primary-btn {
+        background-color: #1976d2;
+        color: white;
+    }
+
+        .primary-btn:hover {
+            background-color: #125aa0;
+        }
+
+    .small-btn {
+        background-color: #e0e0e0;
+        color: #333;
+    }
+
+        .small-btn:hover {
+            background-color: #cfcfcf;
+        }
+
+    .danger-btn {
+        background-color: #e57373;
+        color: #fff;
+    }
+
+        .danger-btn:hover {
+            background-color: #c62828;
+        }
+
+</style>

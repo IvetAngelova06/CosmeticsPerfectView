@@ -1,99 +1,276 @@
 ﻿@model IEnumerable<CosmeticsPerfectView.Data.Product>
 
 @{
-	ViewData["Title"] = "Index";
+    ViewData["Title"] = "Продукти";
+    var showPromo = Model.Any(p => p.PromoPercent > 0);
+    var isAdmin = User.IsInRole("Admin");
 }
 
-<h1>Index</h1>
+<main class="list-page">
+    <header class="header">
+        <h2>Продукти</h2>
+        @if (isAdmin)
+        {
+            <a asp-action="Create" class="btn primary-btn">+ Нов продукт</a>
+        }
+    </header>
 
-@if (User.IsInRole("Admin"))
-{
-	<p>
-		<a asp-action="Create">Create New</a>
-	</p>
-}
-<table class="table">
-	<thead>
-		<tr>
-			<th>
-				@Html.DisplayNameFor(model => model.Name)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.Categories)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.ProductTypes)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.URLimage)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.Price)
-			</th>
-			<!-- Показване на колоната за промоция само ако има стойност PromoPercent > 0 за поне един продукт -->
-			@if (Model.Any(p => p.PromoPercent > 0))
-			{
-				<th>
-					@Html.DisplayNameFor(model => model.PromoPercent)
-				</th>
-			}
-			<th>
-				@Html.DisplayNameFor(model => model.Description)
-			</th>
-			@if (User.IsInRole("Admin"))
-			{
-				<th>
-					@Html.DisplayNameFor(model => model.DateRegister)
-				</th>
-			}
-			<th></th>
-		</tr>
-	</thead>
-	<tbody>
-		@foreach (var item in Model)
-		{
-			<tr>
-				<td>
-					@Html.DisplayFor(modelItem => item.Name)
-				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.Categories.Name)
-				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.ProductTypes.Name)
-				</td>
-				<td>
-					<img src="@Html.DisplayFor(modelItem => item.URLimage)" width="100" />
-				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.Price)
-				</td>
-				<!-- Показване на стойността на PromoPercent само ако е по-голяма от 0 -->
-				@if (item.PromoPercent > 0)
-				{
-					<td>
-						@Html.DisplayFor(modelItem => item.PromoPercent)
-					</td>
-				}
-				<td>
-					@Html.DisplayFor(modelItem => item.Description)
-				</td>
-				@if (User.IsInRole("Admin"))
-				{
-					<td>
-						@Html.DisplayFor(modelItem => item.DateRegister)
-					</td>
-				}
-				<td>
-					<a asp-action="Details" asp-route-id="@item.Id">Детайли</a>
-					@if (User.IsInRole("Admin"))
-					{
-						<a asp-action="Edit" asp-route-id="@item.Id">Редактиране</a>
-						<a asp-action="Delete" asp-route-id="@item.Id">Изтриване</a>
-					}
+    <section class="card-grid">
+        @foreach (var item in Model)
+        {
+            <article class="product-card">
+                <div class="image-wrapper">
+                    <img src="@item.URLimage" alt="Product Image" />
+                    @if (showPromo && item.PromoPercent > 0)
+                    {
+                        <span class="promo-badge">@item.PromoPercent %</span>
+                    }
+                </div>
 
-				</td>
-			</tr>
-		}
-	</tbody>
-</table>
+                <div class="product-info">
+                    <h3>@item.Name</h3>
+                    <p class="category-type">
+                        <strong>Категория:</strong> @item.Categories?.Name <br />
+                        <strong>Тип:</strong> @item.ProductTypes?.Name
+                    </p>
+                    <p class="description">@item.Description</p>
+                    <p class="price">@item.Price.ToString("C")</p>
+                    @if (isAdmin)
+                    {
+                        <p class="date">@item.DateRegister.ToShortDateString()</p>
+                    }
+                </div>
+
+                <div class="actions">
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn small-btn">Детайли</a>
+                    @if (isAdmin)
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn small-btn">Редакция</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn small-btn danger-btn">Изтрий</a>
+                    }
+                </div>
+            </article>
+        }
+    </section>
+</main>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f0f2f5;
+        color: #333;
+    }
+
+    .list-page {
+        max-width: 1200px;
+        margin: 3rem auto;
+        padding: 1rem 2rem 3rem;
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid #eaeaea;
+        padding-bottom: 0.7rem;
+    }
+
+        .header h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            letter-spacing: 0.05em;
+        }
+
+    .btn {
+        padding: 0.5rem 1rem;
+        border-radius: 8px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        border: none;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        transition: background-color 0.25s ease, box-shadow 0.25s ease;
+        user-select: none;
+    }
+
+    .primary-btn {
+        background-color: #007bff;
+        color: white;
+        box-shadow: 0 4px 12px rgba(0,123,255,0.35);
+    }
+
+        .primary-btn:hover {
+            background-color: #0056b3;
+            box-shadow: 0 6px 18px rgba(0,86,179,0.5);
+        }
+
+    /* Card grid container */
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.8rem 2rem;
+    }
+
+    /* Individual product card */
+    .product-card {
+        background-color: white;
+        border-radius: 14px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+        }
+    /* Adjust image wrapper height to make images smaller */
+    .image-wrapper {
+        position: relative;
+        width: 100%;
+        padding-top: 45%; /* Lower aspect ratio height (from 70% to 45%) */
+        overflow: hidden;
+        border-bottom: 1px solid #eee;
+    }
+
+        .image-wrapper img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 14px 14px 0 0;
+            transition: transform 0.3s ease;
+        }
+
+    .product-card:hover .image-wrapper img {
+        transform: scale(1.1);
+    }
+
+    /* Promo badge */
+    .promo-badge {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #e74c3c;
+        color: white;
+        padding: 0.3rem 0.6rem;
+        font-weight: 700;
+        font-size: 0.85rem;
+        border-radius: 6px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        user-select: none;
+    }
+
+    /* Info section */
+    .product-info {
+        padding: 1rem 1.4rem 0.5rem;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+        .product-info h3 {
+            margin: 0 0 0.5rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            line-height: 1.2;
+            min-height: 48px; /* keep consistent height */
+        }
+
+    .category-type {
+        font-size: 0.9rem;
+        color: #666;
+        margin-bottom: 0.5rem;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 0.9rem;
+        color: #555;
+        flex-grow: 1;
+        margin-bottom: 0.8rem;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+
+    .price {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: #007bff;
+        margin-bottom: 0.4rem;
+    }
+
+    .date {
+        font-size: 0.8rem;
+        color: #999;
+        margin-bottom: 0.7rem;
+    }
+
+    /* Action buttons */
+    .actions {
+        padding: 0 1.4rem 1rem;
+        display: flex;
+        gap: 0.6rem;
+        flex-wrap: wrap;
+    }
+
+    .small-btn {
+        background-color: #f0f0f0;
+        color: #444;
+        flex: 1 1 calc(50% - 0.6rem);
+        min-width: 100px;
+        text-align: center;
+        padding: 0.5rem 0;
+        border-radius: 10px;
+        font-weight: 600;
+        user-select: none;
+        transition: background-color 0.25s ease, box-shadow 0.25s ease;
+    }
+
+        .small-btn:hover {
+            background-color: #d6d8db;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+    .danger-btn {
+        background-color: #e74c3c !important;
+        color: white !important;
+    }
+
+        .danger-btn:hover {
+            background-color: #c0392b !important;
+            box-shadow: 0 5px 20px rgba(192,57,43,0.6);
+        }
+
+
+    .product-card {
+        flex-direction: column;
+    }
+
+    .small-btn {
+        flex: 1 1 100%;
+        min-width: auto;
+    }
+
+    .product-info h3 {
+        min-height: auto;
+    }
+
+    }
+</style>

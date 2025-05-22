@@ -1,43 +1,106 @@
-﻿@model CosmeticsPerfectView.Data.Product
+﻿
+@model CosmeticsPerfectView.Data.Product
 
 @{
-	ViewData["Title"] = "Details";
+    ViewData["Title"] = "Details";
 }
 
-<h1>@Html.DisplayFor(model => model.Categories.Name)</h1>
+<main class="product-details-page">
 
+    <header class="product-header">
+        <h1>@Html.DisplayFor(model => model.Categories.Name)</h1>
+    </header>
 
-<div class="box">
-	<div class="img">
-		<img width="150" src="@Html.DisplayFor(model => model.URLimage)" />
-	</div>
-	<div class="text">
-		<h3> @Html.DisplayFor(model => model.Name)</h3>
-		<p> @Html.DisplayFor(model => model.ProductTypes.Name) </p>
-		<p> @Html.DisplayFor(model => model.Price) лв.</p>
+    <section class="product-card">
+        <div class="product-image">
+            <img src="@Html.DisplayFor(model => model.URLimage)" alt="@Model.Name" />
+        </div>
 
-	</div>
-</div>
-<div class="opisanie">
-	<div class="tab">
-		<h3>Описание @Html.DisplayFor(model => model.Name)</h3>
-	</div>
-	<div class="harakteristika">
-		<p>
-			@Html.DisplayFor(model => model.Description)
-		</p>
-	</div>
-</div>
-<form asp-action="AddToCart" asp-route-id="@Model.Id" method="post">
-	<button type="submit" class="btn btn-success">Добави в кошницата</button>
-</form>
-<div>
-	@if (User.IsInRole("Admin"))
-	{
-		<a asp-action="Edit" asp-route-id="@Model?.Id">Редактирай</a> 
-	}
-</div>
+        <div class="product-info">
+            <h2>@Html.DisplayFor(model => model.Name)</h2>
+            <p class="product-type">@Html.DisplayFor(model => model.ProductTypes.Name)</p>
+            <p class="product-price">@Html.DisplayFor(model => model.Price) лв.</p>
+            <h3>Описание: @Html.DisplayFor(model => model.Name)</h3>
+            <p>@Html.DisplayFor(model => model.Description)</p>
+        </div>
+    </section>
+    <section class="product-actions">
+        <form asp-action="AddToCart" asp-route-id="@Model.Id" method="post">
+            <button type="submit" class="add-to-cart-button">Добави в кошницата</button>
+        </form>
 
+        @if (User.IsInRole("Admin"))
+        {
+            <div class="admin-actions">
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="edit-link">Редактирай</a>
+            </div>
+        }
+    </section>
 
+</main>
+<style>
+        .product-details-page {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        font-family: Arial, sans-serif;
+    }
 
+    .product-card {
+        display: flex;
+        gap: 2rem;
+        margin-bottom: 2rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 1rem;
+        background-color: #f9f9f9;
+    }
 
+    .product-image img {
+       width:150px;
+    }
+
+    .product-info h2 {
+        margin-top: 0;
+        font-size: 1.5rem;
+    }
+
+    .product-info p {
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+    .product-price {
+        color: #28a745;
+        font-weight: bold;
+    }
+
+    .product-description {
+        margin-bottom: 2rem;
+    }
+
+    .add-to-cart-button {
+        padding: 0.6rem 1.2rem;
+        background-color: #28a745;
+        border: none;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .add-to-cart-button:hover {
+        background-color: #218838;
+    }
+
+    .edit-link {
+        display: inline-block;
+        margin-top: 1rem;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    .edit-link:hover {
+        text-decoration: underline;
+    }
+
+</style>

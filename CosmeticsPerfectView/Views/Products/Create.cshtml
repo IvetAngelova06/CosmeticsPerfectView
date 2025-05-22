@@ -1,4 +1,4 @@
-﻿@model CosmeticsPerfectView.Data.Product
+﻿@* @model CosmeticsPerfectView.Data.Product
 
 @{
     ViewData["Title"] = "Create";
@@ -45,11 +45,7 @@
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
-           @*  <div class="form-group">
-                <label asp-for="DateRegister" class="control-label"></label>
-                <input asp-for="DateRegister" class="form-control" />
-                <span asp-validation-for="DateRegister" class="text-danger"></span>
-            </div> *@
+
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -64,3 +60,152 @@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
+ *@
+@model CosmeticsPerfectView.Data.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<main class="product-create-page">
+    <header>
+        <h1>Създай продукт</h1>
+    </header>
+
+    <section class="form-section">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+            <div class="form-field">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="CategoriesId"></label>
+                <select asp-for="CategoriesId" asp-items="ViewBag.CategoriesId"></select>
+                <span asp-validation-for="CategoriesId" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="ProductTypeId"></label>
+                <select asp-for="ProductTypeId" asp-items="ViewBag.ProductTypeId"></select>
+                <span asp-validation-for="ProductTypeId" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="URLimage"></label>
+                <input asp-for="URLimage" />
+                <span asp-validation-for="URLimage" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" />
+                <span asp-validation-for="Price" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="PromoPercent"></label>
+                <input asp-for="PromoPercent" />
+                <span asp-validation-for="PromoPercent" class="validation-message"></span>
+            </div>
+
+            <div class="form-field">
+                <label asp-for="Description"></label>
+                <input asp-for="Description" />
+                <span asp-validation-for="Description" class="validation-message"></span>
+            </div>
+
+            <div class="form-actions">
+                <input type="submit" value="Създай" />
+            </div>
+        </form>
+    </section>
+
+    <nav class="back-link">
+        <a asp-action="Index">⬅ Обратно към списъка</a>
+    </nav>
+</main>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .product-create-page {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background-color: #fefefe;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        font-family: sans-serif;
+    }
+
+    .form-section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-field {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1.5rem;
+    }
+
+        .form-field label {
+            font-weight: bold;
+            margin-bottom: 0.3rem;
+        }
+
+        .form-field input,
+        .form-field select {
+            padding: 0.6rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+    .validation-summary {
+        color: darkred;
+        margin-bottom: 1rem;
+    }
+
+    .validation-message {
+        color: red;
+        font-size: 0.9rem;
+        margin-top: 0.3rem;
+    }
+
+    .form-actions input[type="submit"] {
+        padding: 0.7rem 1.5rem;
+        font-size: 1rem;
+        background-color: #2e7d32;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .form-actions input[type="submit"]:hover {
+            background-color: #27682a;
+        }
+
+    .back-link {
+        margin-top: 2rem;
+        text-align: center;
+    }
+
+        .back-link a {
+            text-decoration: none;
+            color: #0077cc;
+        }
+
+            .back-link a:hover {
+                text-decoration: underline;
+            }
+</style>

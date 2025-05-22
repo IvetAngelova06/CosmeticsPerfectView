@@ -1,69 +1,102 @@
 ﻿@model CosmeticsPerfectView.Data.Product
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Редактиране";
 }
 
-<h1>Редактиране</h1>
+<main class="edit-form">
+    <h1>Редактиране на продукт</h1>
+    <hr />
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
 
-<h4>Продукт</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CategoriesId" class="control-label"></label>
-                <select asp-for="CategoriesId" class="form-control" asp-items="ViewBag.CategoriesId"></select>
-                <span asp-validation-for="CategoriesId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ProductTypeId" class="control-label"></label>
-                <select asp-for="ProductTypeId" class="form-control" asp-items="ViewBag.ProductTypeId"></select>
-                <span asp-validation-for="ProductTypeId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="URLimage" class="control-label"></label>
-                <input asp-for="URLimage" class="form-control" />
-                <span asp-validation-for="URLimage" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PromoPercent" class="control-label"></label>
-                <input asp-for="PromoPercent" class="form-control" />
-                <span asp-validation-for="PromoPercent" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
-                <span asp-validation-for="Description" class="text-danger"></span>
-            </div>
-           @*  <div class="form-group">
-                <label asp-for="DateRegister" class="control-label"></label>
-                <input asp-for="DateRegister" class="form-control" />
-                <span asp-validation-for="DateRegister" class="text-danger"></span>
-            </div> *@
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
+        <div class="form-section">
+            <label asp-for="Name" class="control-label">Име</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+        <div class="form-section">
+            <label asp-for="CategoriesId" class="control-label">Категория</label>
+            <select asp-for="CategoriesId" class="form-control" asp-items="ViewBag.CategoriesId"></select>
+            <span asp-validation-for="CategoriesId" class="text-danger"></span>
+        </div>
+
+        <div class="form-section">
+            <label asp-for="ProductTypeId" class="control-label">Тип продукт</label>
+            <select asp-for="ProductTypeId" class="form-control" asp-items="ViewBag.ProductTypeId"></select>
+            <span asp-validation-for="ProductTypeId" class="text-danger"></span>
+        </div>
+
+        <div class="form-section">
+            <label asp-for="URLimage" class="control-label">URL на изображение</label>
+            <input asp-for="URLimage" class="form-control" />
+            <span asp-validation-for="URLimage" class="text-danger"></span>
+            @if (!string.IsNullOrEmpty(Model.URLimage))
+            {
+                <div class="preview">
+                    <img src="@Model.URLimage" alt="Preview" />
+                </div>
+            }
+        </div>
+
+        <div class="form-section">
+            <label asp-for="Price" class="control-label">Цена (лв.)</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-section">
+            <label asp-for="PromoPercent" class="control-label">Промоция (%)</label>
+            <input asp-for="PromoPercent" class="form-control" />
+            <span asp-validation-for="PromoPercent" class="text-danger"></span>
+        </div>
+
+        <div class="form-section">
+            <label asp-for="Description" class="control-label">Описание</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        @* Optional read-only field *@
+        @if (Model.DateRegister != DateTime.MinValue)
+        {
+            <div class="form-section">
+                <label class="control-label">Дата на въвеждане</label>
+                <input class="form-control" value="@Model.DateRegister.ToShortDateString()" readonly />
+            </div>
+        }
+
+        <div class="form-group mt-3">
+            <input type="submit" value="Запази промените" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Назад</a>
+        </div>
+    </form>
+</main>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
+<style>
+    .edit-form {
+        max-width: 700px;
+        margin: auto;
+        padding: 1rem;
+        font-family: sans-serif;
+    }
+
+    .form-section {
+        margin-bottom: 1rem;
+    }
+
+    .preview img {
+        max-width: 150px;
+        height: auto;
+        margin-top: 0.5rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+</style>

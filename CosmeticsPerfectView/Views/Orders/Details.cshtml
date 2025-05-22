@@ -4,39 +4,75 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<main class="order-details-page">
+    <header>
+        <h2>Детайли за поръчката</h2>
+    </header>
 
-<div>
-    <h4>Order</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Users)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Users.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Products)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Products.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.OrderQuantity)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.OrderQuantity)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+    <section class="details-box">
+        <dl>
+            <dt>Потребител</dt>
+            <dd>@Html.DisplayFor(model => model.Users.Email)</dd>
+
+            <dt>Продукт</dt>
+            <dd>@Html.DisplayFor(model => model.Products.Name)</dd>
+
+            <dt>Описание</dt>
+            <dd>@Html.DisplayFor(model => model.Description)</dd>
+        </dl>
+    </section>
+
+    <nav class="back-link">
+        <a asp-action="Index">⬅ Назад към списъка</a>
+    </nav>
+</main>
+<style>
+    .order-details-page {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 2rem;
+        font-family: sans-serif;
+        background-color: #fdfdfd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+        .order-details-page header h2 {
+            margin-bottom: 1.5rem;
+            font-size: 1.8rem;
+            color: #333;
+        }
+
+    .details-box dl {
+        display: grid;
+        grid-template-columns: max-content 1fr;
+        row-gap: 1rem;
+        column-gap: 1rem;
+    }
+
+    .details-box dt {
+        font-weight: bold;
+        color: #555;
+    }
+
+    .details-box dd {
+        margin: 0;
+        color: #222;
+    }
+
+    .back-link {
+        margin-top: 2rem;
+        text-align: left;
+    }
+
+        .back-link a {
+            text-decoration: none;
+            color: #1976d2;
+            font-weight: 500;
+        }
+
+            .back-link a:hover {
+                text-decoration: underline;
+            }
+
+</style>
